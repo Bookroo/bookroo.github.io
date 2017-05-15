@@ -13,13 +13,13 @@ related:
 images:
   - url: bookroo-sisters.jpg
     alt: Bookroo Founders
-  - url: >-
+  - url: 
       http://blog.bookroo.com/wp-content/uploads/2016/08/Bookroo-crew-small-min-1.jpg
     alt: The Bookroo Crew
-  - url: >-
+  - url: 
       http://blog.bookroo.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-27-at-12.33.40-PM.png
     alt: Bookroo kid with books
-  - url: >-
+  - url: 
       http://blog.bookroo.com/wp-content/uploads/2017/04/18057172_737609406400906_3686392882457448709_n.jpg
     alt: Cardboard Fort
     caption: "The fun that\_happens during fulfillment weekend. :)"

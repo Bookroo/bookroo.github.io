@@ -40,3 +40,8 @@ paginate_path: "/p:num/"
 
 # permalink: /:year/:month/:day/:title
 
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://keslert.github.io/Bookroo/'
+  relativeLinks: 'http://keslert.github.io/Bookroo/links.jsonp'
+  media: 'assets/img/posts'
