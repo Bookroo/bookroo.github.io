@@ -9,7 +9,68 @@
 
     <div class="page-content">
       <div class="page-wrapper">
-        {{ content }} 
+        <div class="pure-g">
+          <div class="post">
+            <div class="pure-u-1 pure-u-md-5-8">
+              <div class="padded-section">
+                
+                <div class="post-heading">
+                  <div class="category-tags">
+                    {% for tag in page.categories %}
+                      <a href="{{ site.url }}/categories/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>
+                    {% endfor %}
+                  </div>
+
+                  <h1 class="post-title">{{ page.title }}</h1>
+
+                  <div class="post-date">
+                    Posted on {{ page.date | date: "%B %d, %Y" }}
+                  </div>
+                </div>
+                
+
+                {{ content }} 
+
+                {% assign author = site.data.authors[page.author] %}
+                {% include _posts/author-card.html author=author %}
+
+                <h4><span>Other things you might enjoy</span></h4>
+                <div class="pure-g">
+                  <div class="pure-u-1 pure-u-md-1-2">
+                    <div class="padded-section">
+
+                      <div class="post-condensed-card">
+                        <a class="post-img" 
+                          style="background-image:url({{ site.baseurl }}/assets/img/box-shot-2-min.jpg)"
+                          href="https://bookroo.com"
+                          >
+                          <h3>Order a Bookroo Box</h3>
+                        </a>
+                      </div>
+
+                    </div>
+                  </div>
+
+                  {% for post in site.posts %}
+                    {% if page.related contains post.url %}
+                      <div class="pure-u-1 pure-u-md-1-2">
+                        <div class="padded-section">
+                          {% include _posts/condensed-card.html post=post %}
+                        </div>
+                      </div>
+                    {% endif %}
+                  {% endfor %}
+                </div>
+
+
+                {% if page.comments %}
+                  {% include _posts/comments.html %}
+                {% endif %}
+
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 

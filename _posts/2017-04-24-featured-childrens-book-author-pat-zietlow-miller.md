@@ -5,6 +5,8 @@ categories: [author/illustrator interview]
 published: true
 layout: post
 author: chandler
+related: 
+  - /the-who-behind-bookroo
 
 images: 
   - url: http://blog.bookroo.com/wp-content/uploads/2017/04/IMG_1525-1.png

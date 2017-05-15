@@ -10,7 +10,7 @@ dl, dd, ol, ul, figure {
 
 p {
     line-height: 24px;
-    font-family: $base-font-family;
+    font-family: $secondary-font-family;
 }
 
 /**
@@ -81,8 +81,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
-    font-family: $secondary-font-family;
+    font-weight: bold;
 }
 
 
@@ -91,12 +90,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    font-family: $secondary-font-family;
     color: $link-color;
     text-decoration: none;
-
     &:hover {
-        color: lighten($link-color, 15%);
+        color: lighten($link-color, 10%);
         text-decoration: none;
     }
 }
@@ -181,7 +178,7 @@ pre {
     @extend %wrapper;
     padding: $spacing-unit;
     background: #fff;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    // box-shadow: 0 1px 4px rgba(0,0,0,0.2);
     .page-banner {
         margin-top: -$spacing-unit;
         margin-left: -$spacing-unit;
@@ -231,3 +228,9 @@ pre {
     }
 }
 
+.pure-g {
+  font-family: $base-font-family;
+}
+.pure-g [class *= "pure-u"] {
+  font-family: $base-font-family;
+}

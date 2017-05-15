@@ -1,0 +1,9 @@
+<div class="widget">
+  <div class="widget-title">Popular Posts</div>
+
+  {% for post in site.posts %}
+    {% if site.data.popular contains post.permalink %}
+      {% include _posts/condensed-card.html post=post %}
+    {% endif %}
+  {% endfor %}
+</div>

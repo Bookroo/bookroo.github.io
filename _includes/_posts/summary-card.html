@@ -1,14 +1,17 @@
 <div class="post-summary-card">
-  <div class="post-img" style="background-image:url({{ include.post.images[0].url}})"></div>
+  <a class="post-img" 
+     style="background-image:url({{ include.post.images[0].url}})"
+     href="{{ site.url }}{{ include.post.url }}"
+     ></a>
   <div class="post-content">
-    <div class="categories">
+    <div class="category-tags">
       {% for tag in include.post.categories %}
         <a href="{{ site.url }}/categories/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>
       {% endfor %}
     </div>
 
     
-    <h2><a href="{{ site.url }}{{ include.post.url }}">{{ include.post.title }}</a></h2>
+    <h2 class="post-title"><a href="{{ site.url }}{{ include.post.url }}">{{ include.post.title }}</a></h2>
 
     <div class="abstract">
       <p>{{ include.post.content | strip_html | truncatewords: 31 }}
