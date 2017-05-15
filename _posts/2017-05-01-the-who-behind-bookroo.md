@@ -1,30 +1,29 @@
 ---
 title: The Who Behind Bookroo
 permalink: /the-who-behind-bookroo
-categories: [family]
+categories:
+  - family
 published: true
 layout: post
 author: rebecca
 comments: true
-related: 
+related:
   - /featured-childrens-book-author-pat-zietlow-miller
   - /the-who-behind-bookroo
-  
 images:
-  - url: https://i2.wp.com/blog.bookroo.com/wp-content/uploads/2016/08/sisters.jpg
+  - url: bookroo-sisters.jpg
     alt: Bookroo Founders
-
-  - url: http://blog.bookroo.com/wp-content/uploads/2016/08/Bookroo-crew-small-min-1.jpg
+  - url: >-
+      http://blog.bookroo.com/wp-content/uploads/2016/08/Bookroo-crew-small-min-1.jpg
     alt: The Bookroo Crew
-
-  - url: http://blog.bookroo.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-27-at-12.33.40-PM.png
+  - url: >-
+      http://blog.bookroo.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-27-at-12.33.40-PM.png
     alt: Bookroo kid with books
-
-  - url: http://blog.bookroo.com/wp-content/uploads/2017/04/18057172_737609406400906_3686392882457448709_n.jpg
+  - url: >-
+      http://blog.bookroo.com/wp-content/uploads/2017/04/18057172_737609406400906_3686392882457448709_n.jpg
     alt: Cardboard Fort
-    caption: The fun that happens during fulfillment weekend. :)
-
-  - url: http://blog.bookroo.com/wp-content/uploads/2017/04/little-pea.jpg
+    caption: "The fun that\_happens during fulfillment weekend. :)"
+  - url: 'http://blog.bookroo.com/wp-content/uploads/2017/04/little-pea.jpg'
     alt: Little Pea Poster
 ---
 
