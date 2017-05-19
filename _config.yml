@@ -42,6 +42,6 @@ paginate_path: "/p:num/"
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://keslert.github.io/Bookroo/'
-  relativeLinks: 'http://keslert.github.io/Bookroo/links.jsonp'
+  siteurl: 'http://bookroo.github.io/'
+  relativeLinks: 'http://bookroo.github.io/links.jsonp'
   media: 'assets/img/posts'
