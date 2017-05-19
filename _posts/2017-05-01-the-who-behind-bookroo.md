@@ -1,10 +1,10 @@
 ---
+layout: post
 title: The Who Behind Bookroo
 permalink: /the-who-behind-bookroo
 categories:
   - family
 published: true
-layout: post
 author: rebecca
 comments: true
 related:
