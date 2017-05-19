@@ -13,17 +13,14 @@ related:
 images:
   - url: bookroo-sisters.jpg
     alt: Bookroo Founders
-  - url: 
-      http://blog.bookroo.com/wp-content/uploads/2016/08/Bookroo-crew-small-min-1.jpg
+  - url: bookroo-crew.jpg
     alt: The Bookroo Crew
-  - url: 
-      http://blog.bookroo.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-27-at-12.33.40-PM.png
+  - url: kid-on-bed-with-bookroo.jpg
     alt: Bookroo kid with books
-  - url: 
-      http://blog.bookroo.com/wp-content/uploads/2017/04/18057172_737609406400906_3686392882457448709_n.jpg
+  - url: cardboard-fort.jpg
     alt: Cardboard Fort
-    caption: "The fun that\_happens during fulfillment weekend. :)"
-  - url: 'http://blog.bookroo.com/wp-content/uploads/2017/04/little-pea.jpg'
+    caption: 'The fun that happens during fulfillment weekend. :)'
+  - url: little-pea.jpg
     alt: Little Pea Poster
 ---
 

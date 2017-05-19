@@ -1,25 +1,27 @@
 ---
 title: Featured Children's Book Author&#58; Pat Zietlow Miller
 permalink: /featured-childrens-book-author-pat-zietlow-miller
-categories: [author/illustrator interview]
 published: true
+comments: true
 layout: post
 author: chandler
+categories: 
+  - author/illustrator interview
 related: 
-  - /the-who-behind-bookroo
-
+  - /featured-childrens-book-illustrator-owen-davey
 images: 
-  - url: http://blog.bookroo.com/wp-content/uploads/2017/04/IMG_1525-1.png
+  - url: pat-zietlow-miller.jpg
     alt: Pat Zietlow Miller
-
-  - url: http://blog.bookroo.com/wp-content/uploads/2017/04/CFJCn-qVIAE_JG_.jpg
+  - url: pat-miller-story-time.jpg
     alt: Story time with Pat
-    caption: WHEREVER YOU GO Author Pat Zietlow Miller (right) and Illustrator Eliza Wheeler. Image courtesy of Pat Zietlow Miller
-
-  - url: http://blog.bookroo.com/wp-content/uploads/2017/04/Signing.jpg
+    caption: Wherever You Go Author Pat Zietlow Miller (right) and Illustrator Eliza Wheeler. Image courtesy of Pat Zietlow Miller
+  - url: pat-miller-signing.jpg
     alt: Book signing
     caption: Image courtesy of Pat Zietlow Miller
 ---
+
+{% assign image=page.images[0] %}
+{% include _posts/image.html image=image %}
 
 By now most of you have had some time to enjoy your March Bookroo boxes. We hope you’ve been having fun reading your new books!
 
@@ -27,8 +29,7 @@ One of the books we shared in our March picture book box was *WHEREVER YOU GO*, 
 
 That’s why we were thrilled to have the opportunity to interview the book’s author, Pat Zietlow Miller, to learn more about creating *WHEREVER YOU GO* and her work as a children’s book author. She is the author of five children’s books and has several more in the works. She is a recipient of the Juvenile Literature Award and the Golden Kite Award for best picture book text, as well as the Crystal Kite Award for *WHEREVER YOU GO*.
 
-{% assign image=page.images[0] %}
-{% include _posts/image.html image=image %}
+## Interview with Pat Zietlow Miller
 
 **Bookroo: We look forward to learning a bit more about you, Pat, but to begin, we’d love to jump right in and talk about _WHEREVER YOU GO_. How did you come up with the idea for the story?**
 
