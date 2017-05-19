@@ -23,7 +23,7 @@ images:
 {% assign image=page.images[0] %}
 {% include _posts/image.html image=image %}
 
-Right now Rebecca and I are traveling by train from Switzerland where we saw the Matterhorn to Italy where we will see Rome, Venice, Florence, and other cities. Traveling to Europe for the first time has been thrilling. We’ve seen beautiful paintings and sculptures that, until now, we only studied in school on a computer screen. We’ve marveled at palaces like Versailles and Buckingham, and enjoyed delicious foods like crepes, swiss chocolate, and baguettes. This is a trip we’ve wanted to take for years, and it’s incredibly exciting to be here.
+Right now Rebecca and I are traveling by train from Switzerland where we saw the Matterhorn to Italy where we will see Venice, Rome, Florence, and other cities. Traveling to Europe for the first time has been thrilling. We’ve seen beautiful paintings and sculptures that, until now, we only studied in school on a computer screen. We’ve marveled at palaces like Versailles and Buckingham, and enjoyed delicious foods like crepes, swiss chocolate, and baguettes. This is a trip we’ve wanted to take for years, and it’s incredibly exciting to be here.
 
 {% assign image=page.images[1] %}
 {% include _posts/image.html image=image %}
