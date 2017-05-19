@@ -45,3 +45,15 @@ prose:
   siteurl: 'http://bookroo.github.io/'
   relativeLinks: 'http://bookroo.github.io/links.jsonp'
   media: 'assets/img/posts'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          label: "Layout"
+          value: "post"
