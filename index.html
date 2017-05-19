@@ -12,6 +12,15 @@ layout: default
           </div>
         {% endfor %}
       </div>
+      <nav class="pagination" role="navigation">
+        {% if paginator.next_page %}
+          <a class="newer-posts" href="{{ paginator.next_page_path }}"><i class="fa fa-chevron-left"></i> Older</a>
+        {% endif %}
+
+        {% if paginator.previous_page %}
+          <a class="older-posts" href="{{paginator.previous_page_path}}">Newer <i class="fa fa-chevron-right"></i></a>
+        {% endif %}
+      </nav>
     </div>
   </div>
   <div class="pure-u-1 pure-u-md-1-4">
