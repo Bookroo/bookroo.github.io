@@ -12,7 +12,7 @@ related:
   - /inside-the-bookroo-review-process
   - /why-i-read-500-books-in-1st-grade-and-why-your-child-should-too
 images: 
-  - url: 100-best-quotes.jpgpng
+  - url: 100-best-quotes.jpg
     alt: 100 best quotes
   - url: quote-1.jpg
     alt: Reading quote
