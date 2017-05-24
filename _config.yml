@@ -35,7 +35,7 @@ exclude:
 
 gems: 
   - jekyll-paginate
-paginate: 10
+paginate: 8
 paginate_path: "/p:num/"
 
 # permalink: /:year/:month/:day/:title

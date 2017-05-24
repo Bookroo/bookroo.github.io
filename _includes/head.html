@@ -24,6 +24,7 @@
   <meta property="og:site_name" content="{{ site.title }}">
   {% if page.images %}
     <meta property="og:image" content="{{ site.url }}/assets/img/posts/{{ page.images[0].url }}">
+    <meta property="og:image:secure_url" content="{{ site.url }}/assets/img/posts/{{ page.images[0].url }}">
   {% endif %}
 
   {% if page.categories %}<meta name="keywords" content="{{ page.categories | join: ', ' }}">{% endif %}
