@@ -5,7 +5,7 @@
   <link rel="icon" type="image/png" href='{{ "/assets/img/barthalemew.png" | prepend: site.baseurl }}' />
 
   <title>{% if page.title %}{{ page.title }}{% else %}Bookroo Blog{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.content %}{{ page.content | strip_html | strip_newlines | truncatewords: 31 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" id="fontawesome-css-css" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
   <link rel="stylesheet" href="//unpkg.com/purecss@0.6.2/build/pure-min.css">
