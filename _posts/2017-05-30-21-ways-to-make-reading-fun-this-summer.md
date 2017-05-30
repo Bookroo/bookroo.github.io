@@ -15,6 +15,7 @@ related:
 images:
   - url: kids-reading-outside.jpg
     alt: kids reading outside
+title: 21 Ways To Make Reading Fun This Summer
 ---
 ![kids reading outside]({{site.baseurl}}/assets/img/posts/kids-reading-outside.jpg)
 
