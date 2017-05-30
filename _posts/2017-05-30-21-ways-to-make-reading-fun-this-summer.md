@@ -44,7 +44,7 @@ We're lucky to have a vibrant community of readers who are willing to share thei
 
 9. **Make it relevant.** - "My favorite way to make summer reading happen is to find books that are relating to our activities. We read books about swimming, or camping or the beach. And when I'm out of inspiration we find ways to make the books relate to our day by doing "what if..." questions!" -- Rachael M.
 
-	![blue house joys reading nook]({{site.baseurl}}/assets/img/posts/kids-fort-inside-blue-house-joys.jpg)
+	![blue house joys reading nook]({{site.baseurl}}/assets/img/posts/kids-fort-inside-blue-house-joys.jpg)Photo credit: [Blue House Joys](https://bluehousejoys.com/)
 
 10. **Create a semi-permanent book nook.** - "To get ready for summer reading, we just set up a 'book nook' Simple, inexpensive, and quite effective so far (just a cozy space with a few fun pillows, a glowing star, and a bin of books!)" -- Carissa F.
 
