@@ -1,16 +1,16 @@
 ---
-title: "What Makes a Classic: Can Harry Potter \"Expecto\" Become a Keeper?"
+title: "Featured Children's Book Author: Owen Davey"
 permalink: /featured-childrens-book-illustrator-owen-davey
 published: true
 comments: true
 layout: post
-author: jane
+author: chandler
 categories: 
   - book recommendation
 related: 
   - /how-30-minutes-of-reading-a-day-will-change-your-childs-life
   - /inside-the-bookroo-review-process
-  - /8-princesses-you-might-actually-want-your-daughter-to-emulate
+  - /featured-childrens-book-illustrator-owen-davey
 images: 
   - url: knight-night.jpg
     alt: Knight Night by Owen Davey
