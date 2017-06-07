@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /21-ways-to-make-reading-fun-this-summer
 categories:
   - activities
