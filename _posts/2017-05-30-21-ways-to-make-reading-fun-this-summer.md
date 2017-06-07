@@ -23,6 +23,8 @@ images:
     alt: blue house joys canopy
   - url: kids-reading-outside.jpg
     alt: kids reading outside
+  - url: bookroo-boxes-blue.jpg
+    alt: blue bookroo boxes
 title: 21 Ways To Make Reading Fun This Summer
 ---
 {% assign image=page.images[0] %}
