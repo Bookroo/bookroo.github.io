@@ -25,8 +25,8 @@ images:
     alt: kids reading outside
 title: 21 Ways To Make Reading Fun This Summer
 ---
-	{% assign image=page.images[0] %}
-	{% include _posts/image.html image=image %}
+{% assign image=page.images[0] %}
+{% include _posts/image.html image=image %}
 
 We're lucky to have a vibrant community of readers who are willing to share their tips and tricks with us and (by extension) you! Read on for 21 ways that real families keep kids of all ages excited about reading all summer long and if you need an infusion of fresh, fun books, visit us at [bookroo.com](bookroo.com) to join our monthly book club!
 
