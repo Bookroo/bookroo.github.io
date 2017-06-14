@@ -30,7 +30,7 @@ title: 21 Ways To Make Reading Fun This Summer
 {% assign image=page.images[0] %}
 {% include _posts/image.html image=image %}
 
-We're lucky to have a vibrant community of readers who are willing to share their tips and tricks with us and (by extension) you! Read on for 21 ways that real families keep kids of all ages excited about reading all summer long and if you need an infusion of fresh, fun books, visit us at [bookroo.com](bookroo.com) to join our monthly book club!
+We're lucky to have a vibrant community of readers who are willing to share their tips and tricks with us and (by extension) you! Read on for 21 ways that real families keep kids of all ages excited about reading all summer long and if you need an infusion of fresh, fun books, visit us at [bookroo.com](https://bookroo.com) to join our monthly book club!
 
 1. **Have an outdoor read-a-thon.** - "Building a little tent outside and we sit under it and read ♡ Lots of yummy snacks and good drinks for my older girls." -- Jasmine C. _(What makes for a great read-a-thon? We've got some tips for you [here](http://blog.bookroo.com/read-a-thon/).)_
 
@@ -52,7 +52,7 @@ We're lucky to have a vibrant community of readers who are willing to share thei
 
 7. **Build a fort.** - "We build a fort, or tent. We put as many pillow and blankets as we can in it. Then come the stuffed animals or dinosaurs depending on my son's friends that day. Sometimes he chooses sharks. Then he adds the pile of books. Then we grab the dragon night light go into the tent turns the dragon night light on let's the stars go on the wall (it projects them) bring his little bon fire over (it's a pillow shaped fire) and make smore's for all the animals as we read." -- Jennifer C.
 
-8. **Make goals and log reading.** - "... I also do reading logs for them. Throughout the summer I count news articles, magazines and books for them! They also get a good prize for every 100 books they read. Such as a trip to Jamba or Claires, A tub of icecream, a gift card for Rue21. This will be the first summer with my youngest (2) actually spending time reading outside so I'll have to get creative with her. Hope she'll like our fort outside!" -- Jasmine C._(Looking for a great way to log your reading? Try our [Bookroo reading app](bookroo.com/read/app)!)_
+8. **Make goals and log reading.** - "... I also do reading logs for them. Throughout the summer I count news articles, magazines and books for them! They also get a good prize for every 100 books they read. Such as a trip to Jamba or Claires, A tub of icecream, a gift card for Rue21. This will be the first summer with my youngest (2) actually spending time reading outside so I'll have to get creative with her. Hope she'll like our fort outside!" -- Jasmine C._(Looking for a great way to log your reading? Try our [Bookroo reading app](https://bookroo.com/read/app)!)_
 
 9. **Make it relevant.** - "My favorite way to make summer reading happen is to find books that are relating to our activities. We read books about swimming, or camping or the beach. And when I'm out of inspiration we find ways to make the books relate to our day by doing "what if..." questions!" -- Rachael M.
 
@@ -89,8 +89,8 @@ We're lucky to have a vibrant community of readers who are willing to share thei
 	{% assign image=page.images[5] %}
 	{% include _posts/image.html image=image %}
 
-**BONUS IDEA: Get fun new books.** - Reading the same books over and over again gets just plain boring, so make sure to regularly infuse your collection with some new titles! [Bookroo's monthly book club](bookroo.com) is a great way to do this, particularly in conjunction with visits to your local library because you really can never have too many books!
+**BONUS IDEA: Get fun new books.** - Reading the same books over and over again gets just plain boring, so make sure to regularly infuse your collection with some new titles! [Bookroo's monthly book club](https://bookroo.com) is a great way to do this, particularly in conjunction with visits to your local library because you really can never have too many books!
 
-Now that you've got all the tips and tricks, you just need some new books! Visit us at bookroo.com to [start our monthly book club](bookroo.com)--we'll be sure to make reading extra special for your little ones this summer with each book individually wrapped and our fun poppy new boxes! 
+Now that you've got all the tips and tricks, you just need some new books! Visit us at bookroo.com to [start our monthly book club](https://bookroo.com)--we'll be sure to make reading extra special for your little ones this summer with each book individually wrapped and our fun poppy new boxes! 
 
 Comment below with which number ideas you'll be trying this summer!
