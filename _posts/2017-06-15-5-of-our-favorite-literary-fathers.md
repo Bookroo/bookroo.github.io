@@ -26,32 +26,36 @@ _Can you believe it’s already almost Father’s Day? This year is going by fas
 
 1. **Arthur Weasley**, The _Harry Potter_ Series
 
-  You’ve got to love how playful Arthur Weasley is with his boys. While it sometimes isn’t in line with what Mrs. Weasley thinks should happen, he always tries to please her.
+    You’ve got to love how playful Arthur Weasley is with his boys. While it sometimes isn’t in line with what Mrs. Weasley thinks should happen, he always tries to please her.
 
-  _Molly Weasley: *Your* sons flew that enchanted car of yours to Surrey and back last night. 
-  Arthur Weasley: [to the boys] Did you really? How did it go? 
-  [after Molly hits him] 
-  Arthur Weasley: I mean, that was very wrong indeed, boys. Very wrong of you._ 
+    _Molly Weasley_: *Your* sons flew that enchanted car of yours to Surrey and back last night. 
+    
+    _Arthur Weasley_: [to the boys] Did you really? How did it go? 
+    
+    _[after Molly hits him]_
+    
+    _Arthur Weasley_: I mean, that was very wrong indeed, boys. Very wrong of you._ 
 
 2. **Mr. Bennet**, _Pride and Prejudice_
-Mr. Bennet is one of my personal favorites. How can you not love him? As a loving, devoted father to the Bennet girls, his rational thinking is one of his prized qualities. You can’t help but love how understanding he is of Lizzy, and how he stands up for his daughter’s dreams, even if he’s a little sarcastic at times.
+  
+    Mr. Bennet is one of my personal favorites. How can you not love him? As a loving, devoted father to the Bennet girls, his rational thinking is one of his prized qualities. You can’t help but love how understanding he is of Lizzy, and how he stands up for his daughter’s dreams, even if he’s a little sarcastic at times.
 
-  _Mr. Bennet: Your mother will never see you again if you do not marry Mr. Collins... and I will never see you again if you do._
+    _Mr. Bennet: Your mother will never see you again if you do not marry Mr. Collins... and I will never see you again if you do._
 
-  {% assign image=page.images[1] %}
-  {% include _posts/image.html image=image %}
+    {% assign image=page.images[1] %}
+    {% include _posts/image.html image=image %}
 
 3. **Atticus Finch**, _To Kill a Mockingbird_
 
-  There’s no better literary father that teaches of honesty and morals than Atticus Finch. He talks plainly with his children and teaches them principles of love and respect.
+    There’s no better literary father that teaches of honesty and morals than Atticus Finch. He talks plainly with his children and teaches them principles of love and respect.
 
-  _Atticus Finch: First of all," he said, "if you can learn a simple trick, Scout, you'll get along a lot better with all kinds of folks. You never really understand a person until you consider things from his point of view […] until you climb into his skin and walk around in it._​
+    _Atticus Finch: First of all," he said, "if you can learn a simple trick, Scout, you'll get along a lot better with all kinds of folks. You never really understand a person until you consider things from his point of view […] until you climb into his skin and walk around in it._​
 
 4. **Jean Valjean**, _Les Miserables_
 
-  While not a biological father, when Valjean adopts Cosette, he is promising to look after her with love and compassion. He was willing to sacrifice his life to save Cosette’s love, Marius, and give Cosette the life she deserves.
+    While not a biological father, when Valjean adopts Cosette, he is promising to look after her with love and compassion. He was willing to sacrifice his life to save Cosette’s love, Marius, and give Cosette the life she deserves.
 
-  _Victor Hugo: A strange father, forged out of the grandfather, son, brother, and husband that were all in Jean Valjean; a father in whom there was even a mother; a father who loved Cosette and worshipped her, and for whom that child was light, was home, was his homeland, was paradise._
+    _Victor Hugo: A strange father, forged out of the grandfather, son, brother, and husband that were all in Jean Valjean; a father in whom there was even a mother; a father who loved Cosette and worshipped her, and for whom that child was light, was home, was his homeland, was paradise._
 
 5. **Matthew Cuthbert**, _Anne of Green Gables_
 
