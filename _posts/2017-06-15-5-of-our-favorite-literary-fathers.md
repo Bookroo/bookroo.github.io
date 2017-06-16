@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /5-of-our-favorite-literary-fathers
 categories:
   - parenting
@@ -18,6 +18,7 @@ images:
   - url: dad-reading-to-kids.jpg
     alt: dad reading to kids
 ---
+
 {% assign image=page.images[0] %}
 {% include _posts/image.html image=image %}
 
