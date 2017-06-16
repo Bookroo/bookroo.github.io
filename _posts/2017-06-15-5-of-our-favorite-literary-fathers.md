@@ -24,8 +24,6 @@ images:
 
 _Can you believe it’s already almost Father’s Day? This year is going by fast. While you’re busy trying to think of the perfect gift for the father or husband in your life ([check out our Father’s Day gift guide!](https://blog.bookroo.com/fathers-day-gift-guide "5 FATHER'S DAY GIFTS THAT ACTUALLY CELEBRATE FATHERHOOD")), we thought it would be fun to share five of our favorite fathers in literature (let’s see if you agree!). Sometimes it’s fun for us to take a break from talking about the kids books (though we love them!) we send in our [children’s book club](https://bookroo.com/ "Bookroo") to talk about other, more advanced books we love._ 
 
-![Stack of Books]({{site.baseurl}}/assets/img/posts/Stack of books.jpg)
-
 1. **Arthur Weasley**, The _Harry Potter_ Series
 You’ve got to love how playful Arthur Weasley is with his boys. While it sometimes isn’t in line with what Mrs. Weasley thinks should happen, he always tries to please her.
 
