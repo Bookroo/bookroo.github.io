@@ -1,5 +1,5 @@
 ---
-title: Too Many Books!
+title: 5 Tips for Reading with your Grandkids
 permalink: /5-tips-for-reading-with-your-grandkids
 published: true
 comments: true
