@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 permalink: /5-of-our-favorite-literary-fathers
 categories:
   - parenting
