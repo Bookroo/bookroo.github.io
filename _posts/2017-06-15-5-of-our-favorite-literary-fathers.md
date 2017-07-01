@@ -9,9 +9,7 @@ categories:
 author: rebecca
 comments: true
 related:
-  - /fathers-day-gift-guide
-  - /thanks-dad
-  - /how-to-dad
+  - /how-30-minutes-of-reading-a-day-will-change-your-childs-life
 images:
   - url: stack-of-books.jpg
     alt: stack of books
