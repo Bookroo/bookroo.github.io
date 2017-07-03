@@ -15,9 +15,8 @@ images:
   - url: happyfourth.jpg
     alt: Happy Fourth of July
 ---
-{% assign image=page.images[0] %}
-{% include _posts/image.html image=image %}
-  
+![Happy Fourth of July]({{site.baseurl}}/assets/img/posts/happyfourth.jpg)![happyfourth.jpg]({{site.baseurl}}/assets/img/posts/happyfourth.jpg)
+ 
 Happy (almost) 4th of July! We love this holiday that celebrates our freedom and honors those who have served, will serve, and are currently serving to protect this country and those freedoms. 
  
 We wanted to pay special tribute this 4th of July to those who are serving in the armed forces. These are men and women who sacrifice for all of us, and we want to help make their lives and the lives of their families a little bit easier.
