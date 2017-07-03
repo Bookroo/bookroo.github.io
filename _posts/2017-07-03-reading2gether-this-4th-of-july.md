@@ -1,6 +1,19 @@
 ---
 layout: post
 published: false
+permalink: /reading2gether-this-4th-of-July
+categories:
+  - family
+  - importance of reading
+author: rebecca
+comments: true
+related:
+  - /how-30-minutes-of-reading-a-day-will-change-your-childs-life
+images:
+  - url: reading2gether.jpg
+    alt: '#reading2gether'
+  - url: happyfourth.jpg
+    alt: Happy Fourth of July
 ---
 {% assign image=page.images[0] %}
 {% include _posts/image.html image=image %}
