@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /reading2gether-this-4th-of-July
 categories:
   - family
