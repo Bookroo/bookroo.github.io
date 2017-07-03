@@ -15,7 +15,7 @@ images:
   - url: happyfourth.jpg
     alt: Happy Fourth of July
 ---
-![Happy Fourth of July]({{site.baseurl}}/assets/img/posts/happyfourth.jpg)![happyfourth.jpg]({{site.baseurl}}/assets/img/posts/happyfourth.jpg)
+![Happy Fourth of July]({{site.baseurl}}/assets/img/posts/happyfourth.jpg)
  
 Happy (almost) 4th of July! We love this holiday that celebrates our freedom and honors those who have served, will serve, and are currently serving to protect this country and those freedoms. 
  
