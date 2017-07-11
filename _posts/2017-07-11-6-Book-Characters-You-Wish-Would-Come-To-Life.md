@@ -77,3 +77,5 @@ _… We would have an adventure! - Chelsey L. _
 
 Let's face it, she really IS practically perfect in every way and while we agree with Chelsey that Mary Poppins would be fun to go on an adventure with, we'd probably ask her to babysit our kids so we could go on a worry free date night, knowing the kiddos were in excellent hands.
 
+Which book character do YOU wish would come to life for a day? Tell us in the comments below, and follow us on Facebook to participate in our Free Box Friday community giveaways!
+
