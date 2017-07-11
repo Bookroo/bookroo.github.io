@@ -12,16 +12,22 @@ related:
   - /my-favorite-places-to-travel
   - /what-makes-a-classic-can-harry-potter-expecto-become-a-keeper
 images:
-  - url: kids-reading-outside.jpg
-    alt: kids reading outside
+  - url: molly_weasley.jpg
+    alt: Molly Weasley
+  - url: winnie_the_pooh.jpg
+    alt: Winnie the Pooh
+  - url: rosie_revere.jpg
+    alt: Rosie Revere
+  - url: anne_of_green_gables.jpg
+    alt: Anne of Green Gables
+  - url: mary_poppins.jpg
+    alt: Mary Poppins
 ---
 ## 6 Book Characters You Wish Would Come To Life
 {% assign image=page.images[0] %}
 {% include _posts/image.html image=image %}
 
 If you follow us on Facebook, you’ve probably seen our ***FREE BOX FRIDAY*** posts, where we poll our fantastic community on fun, book related questions and send a free Bookroo box to our favorite answer. Which book character would you like to come to life for a day? Here’s what 6 of our community members thought.
-
-
 
 ### Molly Weasley
 _...She could help me finish unpacking boxes from moving (way too long ago) and cook a bunch of delicious food! - Melinda C._
