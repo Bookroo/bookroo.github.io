@@ -22,6 +22,7 @@ images:
     alt: Anne of Green Gables
   - url: mary_poppins.jpg
     alt: Mary Poppins
+title: 6 Book Characters You Wish Would Come to Life
 ---
 {% assign image=page.images[0] %}
 {% include _posts/image.html image=image %}
