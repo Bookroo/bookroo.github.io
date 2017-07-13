@@ -11,8 +11,23 @@ related:
   - /what-makes-a-classic-can-harry-potter-expecto-become-a-keeper
   - /too-many-books
 images:
-  - url: molly_weasley.jpg
-    alt: Molly Weasley
+  - url: honeydukes_kids.jpg
+    alt: honeydukes
+  - url: fb_hp5.jpg
+    alt: harry potter 5 quiz
+    link: 'https://bookroo.com/book-quiz/27'
+  - url: fb_hp1.jpg
+    alt: harry potter 1 quiz
+    link: 'https://bookroo.com/book-quiz/22'
+  - url: fb_hp2.jpg
+    alt: harry potter 2 quiz
+    link: 'https://bookroo.com/book-quiz/23'
+  - url: fb_hp3.jpg
+    alt: harry potter 3 quiz
+    link: 'https://bookroo.com/book-quiz/24'
+  - url: fb_hp4.jpg
+    alt: harry potter 4 quiz
+    link: 'https://bookroo.com/book-quiz/26'
 ---
 {% assign image=page.images[0] %}
 {% include _posts/image.html image=image %}
