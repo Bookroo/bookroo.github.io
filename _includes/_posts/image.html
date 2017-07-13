@@ -1,4 +1,6 @@
+{% if include.image.link %}<a href="{{ image.link }}" target="_blank">{% endif %}
 <img src="{{ site.baseurl }}/assets/img/posts/{{ include.image.url }}" alt="{{ include.image.alt }}" title="{{ include.image.alt }}">
-{% if image.caption %}
-  <div class="caption">{{ image.caption }}</div>
+{% if include.image.link %}</a>{% endif %}
+{% if include.image.caption %}
+  <div class="caption">{{ include.image.caption }}</div>
 {% endif %} 
