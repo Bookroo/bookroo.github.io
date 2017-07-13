@@ -86,7 +86,7 @@ Any of the girls from Little Women: responsible, loving, put on great plays
     {% assign image=page.images[1] %}
     {% include _posts/image.html image=image %}
 
-Mrs. Piggle Wiggle
+Mrs. Piggle Wiggle: has magical cures for bad habits (enough said!)
 
     {% assign image=page.images[1] %}
     {% include _posts/image.html image=image %}
@@ -101,16 +101,25 @@ Horton the Elephant: believes a person's a person no matter how small
     {% assign image=page.images[1] %}
     {% include _posts/image.html image=image %}
 
-Anne of Green Gables
+Anne of Green Gables: no-nonsense, tells great stories, enjoys the great outdoors, grand ideas
 
     {% assign image=page.images[1] %}
     {% include _posts/image.html image=image %}
 
-Snow White
+Snow White: capable of looking after 7 little people at a time, cheery disposition, cleans
 
-Llama Llama Gram and Grandpa
+    {% assign image=page.images[1] %}
+    {% include _posts/image.html image=image %}
 
-Mrs. Josphine Rabbit
+Llama Llama Gram and Grandpa: grandparents witha little extra llama silly
+
+    {% assign image=page.images[1] %}
+    {% include _posts/image.html image=image %}
+
+Mrs. Josphine Rabbit: has four children of her own including a trouble maker
+
+	{% assign image=page.images[1] %}
+    {% include _posts/image.html image=image %}
 
 Turns out, according to our community, the Harry Potter series is chuck full of fantastic babysitting candidates. We have to say we agree with them, but the real takeaway for us was what magnificent role models can be found within the pages of books, if we would only seek them out.
 
