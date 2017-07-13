@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /6-book-characters-you-wish-would-come-to-life
 categories:
   - lessons from reading
