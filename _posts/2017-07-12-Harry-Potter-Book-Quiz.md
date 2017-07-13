@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /book-quiz-challenge-harry-potter-5
 categories:
   - book quiz
