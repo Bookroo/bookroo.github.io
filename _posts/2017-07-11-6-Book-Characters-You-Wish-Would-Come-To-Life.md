@@ -17,9 +17,7 @@ images:
     caption: 'Image credit: https://68.media.tumblr.com'
   - url: winnie_the_pooh.jpg
     alt: Winnie the Pooh
-    caption: >-
-      Image
-      credit:http://whyy.org/cms/articulate/files/2016/02/winnie-the-pooh.jpg
+    caption: 'Image credit:http://whyy.org/cms/'
   - url: rosie_revere.jpg
     alt: Rosie Revere
     caption: 'Image credit: https://images-na.ssl-images-amazon.com'
