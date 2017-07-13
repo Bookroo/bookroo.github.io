@@ -14,6 +14,7 @@ related:
 images:
   - url: molly_weasley.jpg
     alt: Molly Weasley
+    caption: 'https://68.media.tumblr.com'
   - url: winnie_the_pooh.jpg
     alt: Winnie the Pooh
     caption: >-
@@ -21,13 +22,13 @@ images:
       credit:http://whyy.org/cms/articulate/files/2016/02/winnie-the-pooh.jpg
   - url: rosie_revere.jpg
     alt: Rosie Revere
-    caption: null
+    caption: 'https://images-na.ssl-images-amazon.com'
   - url: anne_of_green_gables.jpg
     alt: Anne of Green Gables
-    caption: null
+    caption: 'http://sullivanmovies.com'
   - url: mary_poppins.jpg
     alt: Mary Poppins
-    caption: null
+    caption: 'http://media1.s-nbcnews.com'
 title: 6 Book Characters You Wish Would Come To Life
 ---
     {% assign image=page.images[0] %}
