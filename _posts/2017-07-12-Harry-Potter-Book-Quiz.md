@@ -10,7 +10,9 @@ related:
   - /how-30-minutes-of-reading-a-day-will-change-your-childs-life
   - /what-makes-a-classic-can-harry-potter-expecto-become-a-keeper
   - /too-many-books
-images: null
+images:
+  - url: molly_weasley.jpg
+    alt: Molly Weasley
 ---
     {% assign image=page.images[0] %}
     {% include _posts/image.html image=image %}
@@ -37,4 +39,3 @@ Plus, if you missed the first four quizzes, try your hand here:
     {% include _posts/image.html image=image %}
 
 Mischief Managed.
-
