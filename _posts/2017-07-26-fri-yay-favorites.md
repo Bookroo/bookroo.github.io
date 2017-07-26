@@ -3,8 +3,7 @@ layout: post
 published: false
 permalink: /reading2gether-this-4th-of-July
 categories:
-  - family
-  - importance of reading
+  - community
 author: rebecca
 comments: true
 related:
