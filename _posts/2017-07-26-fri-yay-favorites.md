@@ -18,9 +18,12 @@ Time for a new post we like to call Fri-Yay Favorites! We've taken a few of our 
 
 [IG : @bookroo_love and/or #bookroo](https://www.instagram.com/bookroo_love/ "Bookroo's Instagram")
 
+
 [FB : @bookroo.love](https://www.facebook.com/bookroo.love "Bookroo's Facebook")
 
+
 [Twitter : @bookroo_love](https://twitter.com/bookroo_love "Bookroo's Twitter")
+
 
 [Pinterest : Bookroo](https://www.pinterest.com/bookroo/ "Bookroo's Pinterest")
 
