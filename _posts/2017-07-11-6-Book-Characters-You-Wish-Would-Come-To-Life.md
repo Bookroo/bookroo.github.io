@@ -15,7 +15,7 @@ images:
   - url: molly_weasley.jpg
     alt: Molly Weasley
     caption: 'Image credit: https://68.media.tumblr.com'
-  - url: winnie_the_pooh.jpg
+  - url: winne_the_pooh.jpg
     alt: Winnie the Pooh
     caption: 'Image credit:http://whyy.org/cms/'
   - url: rosie_revere.jpg
