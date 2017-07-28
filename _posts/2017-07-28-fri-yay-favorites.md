@@ -64,8 +64,6 @@ This one just makes me want to cuddle a cute baby! @ambercbaldwin
 ​
 Just a cutie enjoying his books in his outside reading nook! @22alfox
 
-{% assign image=page.images[5] %}
-{% include _posts/image.html image=image %}
 ![@22alfox]({{site.baseurl}}/assets/img/posts/@22alfox.jpg)
 ​
 Last but not least, we love seeing your kiddos sharing and reading together! @joyfullysmitten
