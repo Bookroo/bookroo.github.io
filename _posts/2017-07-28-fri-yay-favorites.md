@@ -62,6 +62,7 @@ Cutest shot of one of our books. @lihinggummybearmama
 
 {% assign image=page.images[3] %}
 {% include _posts/image.html image=image %}
+![@lihinggummybearmama]({{site.baseurl}}/assets/img/posts/@lihinggummybearmama.jpg)
 ​
 This one just makes me want to cuddle a cute baby! @ambercbaldwin
 
