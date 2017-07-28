@@ -51,6 +51,7 @@ How could you not love this smile?! @foreverfearlessmag
 
 {% assign image=page.images[1] %}
 {% include _posts/image.html image=image %}
+![@foreverfearlessmag]({{site.baseurl}}/assets/img/posts/@foreverfearlessmag.jpg)
 ​
 You can't not be happy looking at this picture. You just can't. @atoddlerandatopknot
 
