@@ -45,6 +45,7 @@ We love seeing our boxes delivered on your doorstep! @sugarmaplenotes
 
 {% assign image=page.images[0] %}
 {% include _posts/image.html image=image %}
+![@sugarmaplenotes]({{site.baseurl}}/assets/img/posts/@sugarmaplenotes.jpg)
 
 How could you not love this smile?! @foreverfearlessmag
 
