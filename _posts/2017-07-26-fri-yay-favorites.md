@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /reading2gether-this-4th-of-July
 categories:
   - community
@@ -47,9 +47,3 @@ Just a cutie enjoying his books in his outside reading nook! @22alfox
 
 Last but not least, we love seeing your kiddos sharing and reading together! @joyfullysmitten
 ![joyfullysmitten.jpg]({{site.baseurl}}/assets/img/posts/joyfullysmitten.jpg)
-
-
-
-
-
-
