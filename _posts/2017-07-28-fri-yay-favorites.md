@@ -43,11 +43,11 @@ Time for a new post we like to call Fri-Yay Favorites! We've taken a few of our 
 
 We love seeing our boxes delivered on your doorstep! @sugarmaplenotes 
 
-![@sugarmaplenotes]({{site.baseurl}}/assets/img/posts/@sugarmaplenotes.jpg)
+![@sugarmaplenotes]({{site.baseurl}}/assets/img/posts/sugarmaplenotes.jpg)
 
 How could you not love this smile?! @foreverfearlessmag
 
-![@foreverfearlessmag]({{site.baseurl}}/assets/img/posts/@foreverfearlessmag.jpg)
+![@foreverfearlessmag]({{site.baseurl}}/assets/img/posts/foreverfearlessmag.jpg)
 ​
 You can't not be happy looking at this picture. You just can't. @atoddlerandatopknot
 
@@ -56,15 +56,15 @@ You can't not be happy looking at this picture. You just can't. @atoddlerandatop
 ​
 Cutest shot of one of our books. @lihinggummybearmama
 
-![@lihinggummybearmama]({{site.baseurl}}/assets/img/posts/@lihinggummybearmama.jpg)
+![@lihinggummybearmama]({{site.baseurl}}/assets/img/posts/lihinggummybearmama.jpg)
 ​
 This one just makes me want to cuddle a cute baby! @ambercbaldwin
 
-![@ambercbaldwin]({{site.baseurl}}/assets/img/posts/@ambercbaldwin.jpg)
+![@ambercbaldwin]({{site.baseurl}}/assets/img/posts/ambercbaldwin.jpg)
 ​
 Just a cutie enjoying his books in his outside reading nook! @22alfox
 
-![@22alfox]({{site.baseurl}}/assets/img/posts/@22alfox.jpg)
+![@22alfox]({{site.baseurl}}/assets/img/posts/22alfox.jpg)
 ​
 Last but not least, we love seeing your kiddos sharing and reading together! @joyfullysmitten
 
