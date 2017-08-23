@@ -1,9 +1,9 @@
 ---
 layout: post
 published: false
-permalink: /fri-yay-favorites
+permalink: /introducing-the-bookroo-junior-box
 categories:
-  - community
+  - the importance of reading
 author: tayler
 comments: true
 related:
