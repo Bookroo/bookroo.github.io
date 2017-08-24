@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /introducing-the-bookroo-junior-box
 categories:
   - the importance of reading
