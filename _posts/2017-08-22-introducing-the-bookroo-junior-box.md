@@ -9,8 +9,9 @@ comments: true
 related:
   - /hidden-gems-at-the-end-of-my-rainbow
 images:
-  - url: sugarmaplenotes.jpg
-    alt: sugarmaplenotes
+  - url: JuniorReader.jpg
+    alt: JuniorReader
+  - url: null
 ---
 HUGE UPDATE today! Some of you have been waiting anxiously for this, and we’re ecstatic to announce that we are launching our [Junior Box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box")! [The Bookroo Junior Box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box") is the latest addition to our book-of-the-month club and is geared for readers between ages 7-10. 
 
