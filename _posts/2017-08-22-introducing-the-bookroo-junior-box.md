@@ -33,4 +33,6 @@ The most rewarding part of [running our own business](https://www.google.com/url
 
 We recognize that there is a broad spectrum of literacy among children 7-10 years old. Our hope is that you, our friends and subscribers, will be patient and understanding if a particular book seems too hard for your seven-year-old or too easy for your ten-year-old. Depending on their reading levels, our Junior Box may not be the right fit for every child in that age range. If the book is a little too challenging, hopefully you can help your young reader. If it’s on the easier end, perhaps you can encourage them to read it aloud to a younger sibling or friend.
 
+![SiblingLove]({{site.baseurl}}/assets/img/posts/SiblingLove.jpg)
+
 Click here to [order your box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box"), and don't forget to use the code JRBOXBLOG to get 10% off your order! If you have questions, please email support@bookroo.com. And, if you're as excited about our Junior Box as we are, please help us share the news!
