@@ -16,7 +16,7 @@ HUGE UPDATE today! Some of you have been waiting anxiously for this, and we’re
 
 Click here to [order a box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box"), our very first box for your own young reader!
 
-![Junior Reader]({{site.baseurl}}/assets/img/posts/JuniorReader.jpg)
+![Junior Reader]({{site.baseurl}}/assets/img/posts/JuniorReader.jpg)![JuniorReader.jpg]({{site.baseurl}}/assets/img/posts/JuniorReader.jpg)
 
 Each box will include two books. As you might have guessed, the first book will be a “[hidden gem](http://blog.bookroo.com/hidden-gems-at-the-end-of-my-rainbow "Hidden Gems at the End of My Rainbow").” Just like we do with our board and picture book boxes, we’ll use our [careful vetting processes](http://blog.bookroo.com/inside-the-bookroo-review-process "Inside the Bookroo Review Process") and relationships with publishers to find fantastic books from great authors. The second book in each box will be a more well-known classic or favorite. Our aim is to find the right balance between providing books young readers or parents are familiar with and inspiring them to develop a love for finding new characters, plots, worlds, and words.
 
