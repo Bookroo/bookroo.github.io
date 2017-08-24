@@ -12,9 +12,11 @@ images:
   - url: sugarmaplenotes.jpg
     alt: sugarmaplenotes
 ---
-HUGE UPDATE today! Some of you have been waiting anxiously for this, and we’re ecstatic to announce that today we launch our [Junior Box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box")! [The Bookroo Junior Box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box") is the latest addition to our book-of-the-month club and is geared for readers between ages 7-10. 
+HUGE UPDATE today! Some of you have been waiting anxiously for this, and we’re ecstatic to announce that we are launching our [Junior Box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box")! [The Bookroo Junior Box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box") is the latest addition to our book-of-the-month club and is geared for readers between ages 7-10. 
 
+Click here to [order a box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box"), our very first box for your own young reader!
 
+![Junior Reader]({{site.baseurl}}/assets/img/posts/JuniorReader.jpg)
 
 Each box will include two books. As you might have guessed, the first book will be a “[hidden gem](http://blog.bookroo.com/hidden-gems-at-the-end-of-my-rainbow "Hidden Gems at the End of My Rainbow").” Just like we do with our board and picture book boxes, we’ll use our [careful vetting processes](http://blog.bookroo.com/inside-the-bookroo-review-process "Inside the Bookroo Review Process") and relationships with publishers to find fantastic books from great authors. The second book in each box will be a more well-known classic or favorite. Our aim is to find the right balance between providing books young readers or parents are familiar with and inspiring them to develop a love for finding new characters, plots, worlds, and words.
 
@@ -28,4 +30,4 @@ The most rewarding part of [running our own business](https://www.google.com/url
 
 We recognize that there is a broad spectrum of literacy among children 7-10 years old. Our hope is that you, our friends and subscribers, will be patient and understanding if a particular book seems too hard for your seven-year-old or too easy for your ten-year-old. Depending on their reading levels, our Junior Box may not be the right fit for every child in that age range. If the book is a little too challenging, hopefully you can help your young reader. If it’s on the easier end, perhaps you can encourage them to read it aloud to a younger sibling or friend.
 
-Click here to [order your box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box"), and don't forget to use the code JRBOXBLOG to get 10% off your order! 
+Click here to [order your box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box"), and don't forget to use the code JRBOXBLOG to get 10% off your order! If you have questions, please email support@bookroo.com. And, if you're as excited about our Junior Box as we are, please help us share the news!
