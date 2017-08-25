@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /opposite-of-far-august-giveaway
 categories:
   - giveaway
@@ -28,4 +28,3 @@ So here's the deal: to enter the giveaway for these two fun masks and [an August
 Ready, set, **enter!** The giveaway will go through next Wednesday, August 30. US participants only. 
 
 ![Masks & Landshark]({{site.baseurl}}/assets/img/posts/oppositeoffarcollab3.jpg)
-
