@@ -13,7 +13,7 @@ images:
   - url: oppositeoffarcollab2.jpg
     alt: oppositeoffarcollab2
 ---
-Giveaway time! 
+## Giveaway time!
 
 We've found such a fun brand to share with you today-- [Opposite of Far](https://oppositeoffar.com/ "Opposite of Far")! This adorable business is owned and run by Jessica Near, who's goal is "to provide the most fun and hours of playtime for kiddos with big imaginations!" They have adorable masks, tails, ears, paws, and other fun items to help itiniate fun, imaginitive play for your children. 
 
@@ -25,7 +25,7 @@ So here's the deal: to enter the giveaway for these two fun masks and an August 
 
 ![Bookroo & Opposite of Far]({{site.baseurl}}/assets/img/posts/oppositeoffarcollab.jpg)
 
-Ready, set, enter! 
+Ready, set, **enter!**
 
 ![Masks & Landshark]({{site.baseurl}}/assets/img/posts/oppositeoffarcollab3.jpg)
 
