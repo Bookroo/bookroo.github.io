@@ -21,7 +21,9 @@ We love Jessica's products, and we thought her Shark and Dog masks would be such
 
 ![Landshark & Masks]({{site.baseurl}}/assets/img/posts/oppositeoffarcollab2.jpg)
 
-
 So here's the deal: to enter the giveaway for these two fun masks and an August Picture book box (Landshark included), go give @oppositeoffar a follow and comment below saying "Done" with the reason you want to win! 
+
+![Bookroo & Opposite of Far]({{site.baseurl}}/assets/img/posts/oppositeoffarcollab.jpg)
+
 
 Ready, set, enter! 
