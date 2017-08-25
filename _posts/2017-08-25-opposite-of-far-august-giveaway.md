@@ -25,5 +25,7 @@ So here's the deal: to enter the giveaway for these two fun masks and an August 
 
 ![Bookroo & Opposite of Far]({{site.baseurl}}/assets/img/posts/oppositeoffarcollab.jpg)
 
-
 Ready, set, enter! 
+
+![Masks & Landshark]({{site.baseurl}}/assets/img/posts/oppositeoffarcollab3.jpg)
+
