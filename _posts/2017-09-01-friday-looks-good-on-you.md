@@ -46,5 +46,3 @@ Happy Friday! Time for another Fri-Yay Favorites post, where we show off a few o
 
 5. @hollyjollydolly shows so well our bright, happy August bundle. Each book is [wrapped, bundled, and shipped with love](https://blog.bookroo.com/behind-the-scenes-at-bookroo "Behind the Scenes at Bookroo") to your kiddos! 
 ![@hollyjollydolly]({{site.baseurl}}/assets/img/posts/hollyjollydolly.jpg)
-
-
