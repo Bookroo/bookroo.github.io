@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /friday-looks-good-on-you
 categories:
   - community
