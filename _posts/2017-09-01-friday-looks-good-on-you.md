@@ -22,10 +22,11 @@ Happy Friday! Time for another Fri-Yay Favorites post, where we show off a few o
 [FB : @bookroo.love](https://www.facebook.com/bookroo.love "Bookroo's Facebook")
 
 
+[Pinterest : Bookroo](https://www.pinterest.com/bookroo/ "Bookroo's Pinterest")
+
+
 [Twitter : @bookroo_love](https://twitter.com/bookroo_love "Bookroo's Twitter")
 
-
-[Pinterest : Bookroo](https://www.pinterest.com/bookroo/ "Bookroo's Pinterest")
 
 
 1. First off, we loved this image we used for a giveaway with @finandvince. Check out their adorable clothes! 
