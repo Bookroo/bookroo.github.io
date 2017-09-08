@@ -1,6 +1,18 @@
 ---
 layout: post
 published: false
+permalink: /featured-childrens-book-author-beth-ferry
+categories:
+  - author/illustrator interview
+author: chandler
+comments: false
+related:
+  - /featured-childrens-book-author-pat-zietlow-miller
+  - /featured-childrens-book-illustrator-owen-davey
+images:
+  - url: finandvince.jpg
+    alt: finandvince
+  - url: null
 ---
 August’s Bookroo boxes are now arriving to your homes, and excited little readers everywhere are finding their delightful Bookroo packages in the mailbox and on the doorsteps. We hope you are loving them!
  
