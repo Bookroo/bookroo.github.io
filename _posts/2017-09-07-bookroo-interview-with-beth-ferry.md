@@ -4,11 +4,11 @@ published: false
 ---
 August’s Bookroo boxes are now arriving to your homes, and excited little readers everywhere are finding their delightful Bookroo packages in the mailbox and on the doorsteps. We hope you are loving them!
  
-One of the books we featured in this month’s picture book Bookroo boxes is the clever tale of Land Shark, which was written by Beth Ferry. Today we’re excited to bring you an interview with Beth, so that you can learn more about her exciting work as a children’s book author.
+One of the books we featured in this month’s picture book Bookroo boxes is the clever tale of _Land Shark_, which was written by Beth Ferry. Today we’re excited to bring you an interview with Beth, so that you can learn more about her exciting work as a children’s book author.
  
-Beth is the author of three children’s books with eight more in the works. Land Shark recently received the Chickadee Award, a children’s choice award for picture books. She lives in New Jersey and is the mother to three kids.
+Beth is the author of three children’s books, with eight more in the works. _Land Shark_ recently received the Chickadee Award, a children’s choice award for picture books. She lives in New Jersey and is the mother to three kids.
  
-## Bookroo: We love Land Shark. It captures so well the closed-mindedness and stubbornness children can sometimes demonstrate, but also their cleverness and open hearts. Can you tell us more about how you came up with the story?
+## Bookroo: We love _Land Shark_. It captures so well the closed-mindedness and stubbornness children can sometimes demonstrate, but also their cleverness and open hearts. Can you tell us more about how you came up with the story?
 
 _Beth: Land Shark was inspired by a friend’s new puppy. Our dogs were full-grown and I had forgotten how much destruction puppies can wreak. I’m not sure how I forgot, but I did. Sitting on the beach one day, the idea popped into my head that dogs were a lot like sharks, especially when it came to biting. I did some research and found lots of similarities and learned a lot about sharks! I love adding bits of nonfiction to my books if possible, such as tiger sharks eating garbage.
 
@@ -16,9 +16,9 @@ _Update on Land Shark: We now have a five-month old bulldog named Chaucer and I 
 
 ## Bookroo: We know you live close to the beach, so are you a dog lover or shark lover?
 
-_Beth: Dog lover for sure. Ever since I saw Jaws as a kid, I have been afraid to venture too far out into the ocean.Silly, but true.
+_Beth: Dog lover for sure. Ever since I saw Jaws as a kid, I have been afraid to venture too far out into the ocean. Silly, but true.
 
-## Bookroo: Now you’re a three-time published author. You have another book, A Small Blue Whale, coming out this October, and seven more books in the works. How are you feeling about the path ahead?
+## Bookroo: Now you’re a three-time published author. You have another book, _A Small Blue Whale_, coming out this October, and seven more books in the works. How are you feeling about the path ahead?
 
 _Beth: It is hard not to be over the moon! Each book is so different, but just as exciting. I think most authors feel this way. The most exciting part of being a picture book author is working with the amazing artists who bring the books to life. The art in A Small Blue Whale is luminous. Lisa Mundorff’s colors are lovely and she drew penguins using beach shovels in the snow. How fun is that? And a bit of nonfiction included in this book: Whales can actually make rainbows from their blowholes.
 
@@ -59,4 +59,4 @@ _Beth: Tom Lichtenheld and I have a book coming out called Ten Rules of the Birt
 
 _Thank you so much for asking me all these fun questions. I hope readers enjoy Land Shark!
 
-We really appreciate the chance to learn more about Beth and her work as a children’s book author. Be sure to check out her website to learn more about her work and upcoming books. And let us know what you enjoyed from the interview in the comments below!
+We really appreciate the chance to learn more about Beth and her work as a children’s book author. Be sure to check out her [website](https://www.bethferry.com/) to learn more about her work and upcoming books. And let us know what you enjoyed from the interview in the comments below!
