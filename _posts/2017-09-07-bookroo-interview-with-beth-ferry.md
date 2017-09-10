@@ -10,13 +10,15 @@ related:
   - /featured-childrens-book-author-pat-zietlow-miller
   - /featured-childrens-book-illustrator-owen-davey
 images:
-  - url: finandvince.jpg
-    alt: finandvince
-  - url: null
+  - url: Beth Ferry Princeton Children's Book Festival.jpg
+    alt: Beth Ferry Princeton Children's Book Festival.jpg
 ---
 August’s Bookroo boxes are now arriving to your homes, and excited little readers everywhere are finding their delightful Bookroo packages in the mailbox and on the doorsteps. We hope you are loving them!
  
 One of the books we featured in this month’s picture book Bookroo boxes is the clever tale of _Land Shark_, which was written by Beth Ferry. Today we’re excited to bring you an interview with Beth, so that you can learn more about her wonderful work as a children’s book author.
+
+![Beth Ferry Princeton Children's Book Festival]({{site.baseurl}}/assets/img/posts/Beth Ferry Princeton Children's Book Festival.jpg)
+_Beth at the Princeton Children's Book Festival_
  
 Beth is the author of three children’s books, with eight more in the works. _Land Shark_ recently received the Chickadee Award, a children’s choice award for picture books. She lives in New Jersey and is the mother to three kids.
  
@@ -25,6 +27,9 @@ Beth is the author of three children’s books, with eight more in the works. _L
 _Beth: Land Shark was inspired by a friend’s new puppy. Our dogs were full-grown and I had forgotten how much destruction puppies can wreak. I’m not sure how I forgot, but I did. Sitting on the beach one day, the idea popped into my head that dogs were a lot like sharks, especially when it came to biting. I did some research and found lots of similarities and learned a lot about sharks! I love adding bits of nonfiction to my books if possible, such as tiger sharks eating garbage._
 
 _Update on Land Shark: We now have a five-month old bulldog named Chaucer and I have found that I’m living my own book! He has chewed our kitchen wall, 5 electrical cords, all my kitchen stools and any shoe he can get his teeth on! He is truly a little land shark._
+
+![Children's Book Author Beth Ferry]({{site.baseurl}}/assets/img/posts/Children's Book Author Beth Ferry.jpg)
+_Beth with her bulldog "land shark", Chaucer_
 
 **Bookroo: We know you live close to the beach, so are you a dog lover or shark lover?**
 
@@ -39,6 +44,9 @@ _I have seen sketches for a few other upcoming books and am waiting for a few mo
 **Bookroo: Your stories all seem very distinct and unique from each other. Where and how do you find inspiration for new stories?**
 
 _Beth: I find I get most of my ideas from playing with words. I love all kinds of word play. One of my books is called Sealed with a Kiss and it’s about being kissed by a seal. I love the play on words there! And I love the art. Here is a glimpse of the seal courtesy of Olivier Tallec._
+
+![Sealed with a Kiss Children's Book]({{site.baseurl}}/assets/img/posts/Sealed with a Kiss Children's Book.jpg)
+_Image Courtesy of Olivier Tallec_
 
 _Another book idea came from the word scarecrow. I wanted to play with the idea that if there is a scarecrow, there must be a scared crow, so I wrote a story about that unlikely friendship._
 
@@ -57,6 +65,9 @@ _The most challenging part of being an author is waiting for the book to be publ
 
 _Beth: Well, we all love the beach. Is that considered an activity? I hope so! Our family also loves to play games. As I’ve said, my kids are older now, so our current favorites are Catan and Power Yahtzee! I love Scrabble, but usually don’t get any takers. We are also all crazy readers so we do a lot of that. None of us go anywhere, and I mean anywhere, without a book._
 
+![Children's Book Author Beth Ferry]({{site.baseurl}}/assets/img/posts/Children's Book Author Beth Ferry .jpg)
+_One of Beth's Favorite Writing Spots_
+
 **Bookroo: Do you have a favorite picture book?**
 
 _Beth: My favorite picture books include Room on the Broom, Library Lion, Little Pea, Owl Babies, A Visitor for Bear and everything by Sandra Boynton._
@@ -68,6 +79,9 @@ _Beth: From past experience, I have discovered that I am a lazy gardener. I ofte
 **Bookroo: We’ve mentioned that you have some additional books in the queue. Can you give us a sneak peek of anything you want our community of book lovers to watch for?**
 
 _Beth: Tom Lichtenheld and I have a book coming out called Ten Rules of the Birthday Wish about which I am extremely excited. Here is a sneak peek at a piece Tom is working on._
+
+![Ten Rules of the Birthday Wish Children's Book]({{site.baseurl}}/assets/img/posts/Ten Rules of the Birthday Wish Children's Book.jpg)
+_Image Courtesy of Tom Lichtenheld_
 
 _Thank you so much for asking me all these fun questions. I hope readers enjoy Land Shark!_
 
