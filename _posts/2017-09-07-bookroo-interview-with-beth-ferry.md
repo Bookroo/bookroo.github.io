@@ -5,7 +5,7 @@ permalink: /featured-childrens-book-author-beth-ferry
 categories:
   - author/illustrator interview
 author: chandler
-comments: false
+comments: true
 related:
   - /featured-childrens-book-author-pat-zietlow-miller
   - /featured-childrens-book-illustrator-owen-davey
