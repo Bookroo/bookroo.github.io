@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 permalink: /featured-childrens-book-author-beth-ferry
 categories:
   - author/illustrator interview
