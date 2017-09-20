@@ -10,7 +10,7 @@ related:
   - /featured-childrens-book-author-pat-zietlow-miller
   - /featured-childrens-book-illustrator-owen-davey
 images:
-  - url: Beth Ferry Princeton Children's Book Festival.jpg
+  - url: beth-ferry-princeton-childrens-book-festival.jpg
     alt: Beth Ferry Princeton Children's Book Festival
 ---
 August’s Bookroo boxes are now arriving to your homes, and excited little readers everywhere are finding their delightful Bookroo packages in the mailbox and on the doorsteps. We hope you are loving them!
