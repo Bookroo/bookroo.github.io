@@ -25,7 +25,7 @@ Helen and Thomas are an award-winning, wife-and-husband creative duo with a fun 
 
 _Helen: I got the idea at the end of a long day of trying to think up original story ideas. The words ‘book thief’ popped into my head, and with them the idea of a mysterious creature who steals storybooks in the night. At first I was going to call it the BookCruncher or the BookSnatcher, but these sounded a little menacing. I tried reversing the words and came up with the Snatchabook, which sounded more fitting for a lonely creature who just wants someone to read him a bedtime story. At the time, I was reading to our own children every night (actually, I still do!) - it’s such a special, important part of our daily routine._
 
-![Snatchabook Story Artist]({{site.baseurl}}/{{site.baseurl}}/assets/img/posts/Snatchabook.jpg)
+![Snatchabook Storybook Artist]({{site.baseurl}}/assets/img/posts/Snatchabook.jpg)
 
 **Bookroo: How do you collaborate together on a story? Do you work together on the story and illustrations, sharing ideas and feedback, or do you each do your part separately from the other?**
 
