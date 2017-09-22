@@ -10,8 +10,8 @@ related:
   - /featured-childrens-book-author-beth-ferry
   - /featured-childrens-book-author-pat-zietlow-miller
 images:
-  - url: beth-ferry-princeton-childrens-book-festival.jpg
-    alt: Beth Ferry Princeton Children's Book Festival
+  - url: Docherties.jpg
+    alt: Childrens Book Author and Illustrator Helen and Thomas Docherty
 ---
 September’s Bookroo boxes are now arriving at a doorstep near you! Yay!! We have been really excited about September’s picture and board book boxes, and we hope you’re loving snuggling together in this crisp fall weather, reading together (hopefully while enjoying some fresh apple cider). 
 
