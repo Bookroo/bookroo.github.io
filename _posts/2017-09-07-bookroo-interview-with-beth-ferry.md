@@ -17,7 +17,7 @@ August’s Bookroo boxes are now arriving to your homes, and excited little read
  
 One of the books we featured in this month’s picture book Bookroo boxes is the clever tale of _Land Shark_, which was written by Beth Ferry. Today we’re excited to bring you an interview with Beth, so that you can learn more about her wonderful work as a children’s book author.
 
-![Beth Ferry Princeton Children's Book Festival]({{site.baseurl}}/assets/img/posts/Beth Ferry Princeton Children's Book Festival.jpg)
+![Beth Ferry Princeton Children's Book Festival]({{site.baseurl}}/assets/img/posts/beth-ferry-princeton-childrens-book-festival.jpg)
 _Beth at the Princeton Children's Book Festival_
  
 Beth is the author of three children’s books, with eight more in the works. _Land Shark_ recently received the Chickadee Award, a children’s choice award for picture books. She lives in New Jersey and is the mother to three kids.
