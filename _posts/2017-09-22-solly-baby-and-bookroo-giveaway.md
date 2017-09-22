@@ -25,7 +25,7 @@ To enter, all you need to do is:
 1. Follow [@sollybabywrap](https://www.instagram.com/sollybabywrap/ "Solly Baby Wrap") and [@bookroo_love](https://www.instagram.com/bookroo_love/ "Bookroo") on Instagram
 2. Comment below with why you want to win!
 
-![sollybaby and bookroo giveaway]({{site.baseurl}}/assets/img/posts/giveaway.jpg)![giveaway.jpg]
+![sollybaby and bookroo giveaway]({{site.baseurl}}/assets/img/posts/giveaway.jpg)!
 
 US participants only. Giveaway runs now - Monday, Oct. 2 at 11:59 PM. The winner will be chosen within 24 hours, and notified here in a comment reply. 
 
