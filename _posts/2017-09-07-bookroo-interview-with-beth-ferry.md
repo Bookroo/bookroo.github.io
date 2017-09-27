@@ -55,7 +55,7 @@ _Swashby and the Sea is another unlikely friendship story. In this book the sea 
 _But real life also gives me ideas, just like in Land Shark. The idea for Squirrel’s Family Tree came from just looking out my window. I did lots of squirrel/acorn research, learned tons, and put all that into a story.
 Ideas are truly everywhere!_
 
-**Bookroo: What have you found to the best parts about being a children’s book author? What are the most challenging?**
+**Bookroo: What have you found are the best parts about being a children’s book author? What are the most challenging?**
 
 _Beth: The best parts all have to do with the kids. Reading to them, hearing their reactions, answering their questions and hopefully inspiring them. Kids are so smart and perceptive. Every week I read to classes of Kindergarteners and 1st graders and it is the highlight of my week. I love hearing them laugh. My kids are older now and I don’t get to hear kids laugh on a daily basis. I miss that._
 
