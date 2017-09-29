@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /solly-baby-and-bookroo-giveaway
 categories:
   - giveaway
