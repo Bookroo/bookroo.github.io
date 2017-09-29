@@ -27,6 +27,6 @@ To enter, all you need to do is:
 
 ![sollybaby and bookroo giveaway]({{site.baseurl}}/assets/img/posts/giveaway.jpg)
 
-US participants only. Giveaway runs now - Monday, Oct. 2 at 11:59 PM. The winner will be chosen within 24 hours, and notified here in a comment reply. 
+US participants only. Giveaway runs now - Monday, Oct. 2 at 11:59 PM MST. The winner will be chosen within 24 hours, and notified here in a comment reply. 
 
 Good luck, lovely ladies!
