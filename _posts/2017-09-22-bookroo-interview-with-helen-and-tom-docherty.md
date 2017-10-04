@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /featured-childrens-book-author-and-illustrator-helen-and-tom-docherty
 categories:
   - author/illustrator interview
