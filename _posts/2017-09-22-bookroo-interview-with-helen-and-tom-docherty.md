@@ -5,7 +5,7 @@ permalink: /featured-childrens-book-author-and-illustrator-helen-and-tom-dochert
 categories:
   - author/illustrator interview
 author: chandler
-comments: false
+comments: true
 related:
   - /featured-childrens-book-author-beth-ferry
   - /featured-childrens-book-author-pat-zietlow-miller
