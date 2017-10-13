@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 {% assign image=page.images[0] %}
 {% include _posts/image.html image=image %}
