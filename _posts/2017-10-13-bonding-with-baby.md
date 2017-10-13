@@ -13,7 +13,7 @@ That's the beautiful thing about love in general. It grows, like a plant, as we 
 
 In an article entitled _How to bond with your child through reading_, Professor Peter Fonagy said: "We talk a lot about bonding with children, but often in rather abstract ways. Rather than another sermon to new parents about their responsibility in respect to their young children in the first years of life, it might be more useful to pin down the kinds of practical things that parents can do that can help them and their child work together towards building strong bonds." Yes please. No sermonizing here, just our three favorite and easy ways to bond with our babies.
 
-1. Reading
+## Reading
 
 You probably guessed we'd say this one... and guess what. You were right! I've already written extensively about my experience reading to baby F as a newborn and the title of the article pretty much sums it up--[Reading To a Newborn: Harder Than I Thought But Totally Worth It](http://blog.bookroo.com/reading-to-a-newborn-harder-than-i-thought-but-totally-worth-it)). He's 11 months old now, equal parts baby and toddler somehow, and reading is still a part of our daily routine that we cherish. Bonding for the win. But you don't have to take our word for it. Luckily, there's some research to back us up! 
 
@@ -27,7 +27,8 @@ In an article published in [the Washington Post](https://www.washingtonpost.com/
 
 Reading might not happen naturally as you go about your busy day, but it's an easy, practical, enjoyable and meaningful way to bond with your baby that will pay dividends not only now, but for their future. Not sure which books to buy (we hear you, there are literally hundreds of thousands of children's books out there). Let us help by sending you three board books selected with the help of our panel of families attending Stanford University each month.
 
-2. Baby wearing
+## Baby wearing
+
 Baby-wearing definitely works better for some families than others, but for my sisters-in-law and me...it's worked incredibly well and I love it! After having baby F, I was still working on Bookroo (from home) and being able to wear him while I worked at a standing desk was an amazing opportunity for me to feel close to him and have less mom-guilt about working. (Side note: Mom guilt is totally overrated. I try every day to banish it from my life, but it's still a work in progrees). For a few months, he would only nap while we wore him and so my husband and I would take turns wearing him (and snuggling him) for naps until he was ready to make the transition to his little rock-and-play and finally a crib. Woot woot! To this day, however, he still finds comfort in the wrap, so we pull it out whever we're out and about and he needs a nap. #momwin But where's the research you ask?
 
 {% assign image=page.images[2] %}
@@ -35,8 +36,8 @@ Baby-wearing definitely works better for some families than others, but for my s
 
 As succinctly stated by Baby Wearing International (a non-profit supporting women : "babywearing promotes bonding between children and caregivers.” Furthermore,  "Every time a baby is able to let us know that she is hungry, bored, or wet without having to cry, her trust in us is increased, her learning is enhanced, and our own confidence is reinforced.” Other benefits--from research done all the way back in the 1980s and 90s... oh wait, that wasn't so long ago ;)--include less crying and less colic. Plus... more snuggles!
 
+## Cuddling
 
-3. Cuddling
 This one is the EASIEST of the three, and as a major bonus can be combined with either reading or baby-wearing. We've never tried all three at once... if you try it let us know how that works out. Lots of babies (although not all) LOVE to be swaddled while they're cuddled, and plus then your baby will "look like a REAL baby!" (according to our four-year-old niece).
 
 {% assign image=page.images[3] %}
