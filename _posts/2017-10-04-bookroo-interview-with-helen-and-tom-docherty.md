@@ -13,9 +13,7 @@ images:
   - url: Docherties.jpg
     alt: Childrens Book Author and Illustrator Helen and Thomas Docherty
 ---
-September’s Bookroo boxes are now arriving at a doorstep near you! Yay!! We have been really excited about September’s picture and board book boxes, and we hope you’re loving snuggling together in this crisp fall weather, reading together (hopefully while enjoying some fresh apple cider). 
-
-One of the books we featured in our Bookroo picture book boxes is _The Snatchabook_. We love the story and illustrations of _The Snatchabook_, and today we’re thrilled to bring you an interview with Helen and Thomas Docherty, the dynamic author and illustrator team (and couple) behind this delightful tale of the mysterious Snatchabook.
+ One of the books we've featured in our Bookroo picture book boxes is _The Snatchabook_. We love the story and illustrations of _The Snatchabook_, and today we’re thrilled to bring you an interview with Helen and Thomas Docherty, the dynamic author and illustrator team (and couple) behind this delightful tale of the mysterious Snatchabook.
 
 ![Bookroo Interview with Children's Book Author and Illustrator Helen and Tom Docherty]({{site.baseurl}}/assets/img/posts/Docherties.jpg)
 _Helen and Tom Docherty with their daughters at a local street food event_
