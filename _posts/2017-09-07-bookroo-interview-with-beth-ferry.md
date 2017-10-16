@@ -13,9 +13,7 @@ images:
   - url: beth-ferry-princeton-childrens-book-festival.jpg
     alt: Beth Ferry Princeton Children's Book Festival
 ---
-August’s Bookroo boxes are now arriving to your homes, and excited little readers everywhere are finding their delightful Bookroo packages in the mailbox and on the doorsteps. We hope you are loving them!
- 
-One of the books we featured in this month’s picture book Bookroo boxes is the clever tale of _Land Shark_, which was written by Beth Ferry. Today we’re excited to bring you an interview with Beth, so that you can learn more about her wonderful work as a children’s book author.
+One of the books we've featured in our picture book Bookroo boxes is the clever tale of _Land Shark_, which was written by Beth Ferry. Today we’re excited to bring you an interview with Beth, so that you can learn more about her wonderful work as a children’s book author.
 
 ![Beth Ferry Princeton Children's Book Festival]({{site.baseurl}}/assets/img/posts/beth-ferry-princeton-childrens-book-festival.jpg)
 _Beth at the Princeton Children's Book Festival_
