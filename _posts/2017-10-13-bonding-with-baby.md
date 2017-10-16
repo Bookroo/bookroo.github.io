@@ -1,6 +1,26 @@
 ---
 layout: post
 published: true
+permalink: /bonding-with-baby
+categories:
+  - best baby products
+  - bonding
+author: jane
+comments: true
+related:
+  - /reading-to-a-newborn-harder-than-i-thought-but-totally-worth-it
+  - /10-books-we-sent-our-readers
+  - /how-to-talk-to-kids-leave-the-smart-pretty-compliments-at-home
+images:
+  - url: bondingwithbaby.jpg
+    alt: swaddled baby with books
+  - url: reading-to-newborn.jpg
+    alt: Reading to newborn
+  - url: baby.jpg
+    alt: snuggled baby
+  - url: bookroomilksnob.jpg
+    alt: giveaway image
+
 ---
 {% assign image=page.images[0] %}
 {% include _posts/image.html image=image %}
