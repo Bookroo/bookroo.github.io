@@ -13,9 +13,9 @@ images:
   - url: Docherties.jpg
     alt: Childrens Book Illustrator Jen Corace
 ---
-October Bookroo boxes have started arriving! We’re really excited about the books in this month’s board book boxes. One book we included is Little Hoot. It’s authored by the late Amy Krouse Rosenthal and illustrated by Jen Corace. It’s one in a series of three books presenting clever stories to little readers who don’t, for example, like to eat their vegetables at dinner (more spinach, Little Pea?). Little Hoot presents the terrible dilemma of Little Owl, who is forced to stay up late and play when he wants to go to bed. Even little readers are sure to appreciate the irony.
+October Bookroo boxes have started arriving! We’re really excited about the books in this month’s board book boxes. One book we included is _Little Hoot_. It’s authored by the late Amy Krouse Rosenthal and illustrated by Jen Corace. It’s one in a series of three books presenting clever stories to little readers who don’t, for example, like to eat their vegetables at dinner (more spinach, Little Pea?). _Little Hoot_ presents the terrible dilemma of Little Owl, who is forced to stay up late and play when he wants to go to bed. Even little readers are sure to appreciate the irony.
 
-Today we’re excited to share an interview with Jen Corace, award-winning illustrator of Little Hoot and many, many other books. Jen is originally from southern New Jersey but now lives in Providence, RI. She studied at the Rhode Island School of Design (“RISD”, pronounced “RIZ-dee”) where she earned a Bachelor of Fine Arts in illustration.
+Today we’re excited to share an interview with Jen Corace, award-winning illustrator of _Little Hoot_ and many, many other books. Jen is originally from southern New Jersey but now lives in Providence, RI. She studied at the Rhode Island School of Design (“RISD”, pronounced “RIZ-dee”) where she earned a Bachelor of Fine Arts in illustration.
 
 **Bookroo: What did you enjoy most working on illustrations for Little Hoot and the other Little books?**
 
@@ -35,7 +35,7 @@ _Jen: Children’s book work is definitely a team effort.  I mostly take notes a
 
 _Jen: Growing up, I had a mom who was very encouraging of my interest in drawing and art.  She placed me in many after school and summer art programs and she was the one who talked to my high school guidance counselor about art schools.  So she really gave me a lot of support to find my feet and feel like a career in art could be a reality.  
 
-Other than that the type of work I naturally am drawn to is narrative in nature, so studying illustration was an obvious fit for me._
+_Other than that the type of work I naturally am drawn to is narrative in nature, so studying illustration was an obvious fit for me._
 
 **Bookroo: What was a highlight of your time at RISD?**
 
@@ -46,7 +46,7 @@ _It was a really special time._
 
 **Bookroo: In addition to illustrating children’s books, what other projects do you work on with your skills as an illustrator?**
 
-_Jen: Ooh … I keep my hands in many pots.  It’s part of the reason why I love freelance illustration … I never get bored.  The opportunities are wide and varied.  I do as many gallery shows as I possibly can.  I just closed a show in Providence last week and will have a piece in a group show at Rotofugi in Chicago in December.  I’ve done product design Crate and Barrel, a board game called Lords and Ladies with my brother Jason, two years ago I was asked by Genevieve Gorder  to design a one of a kind ornament for former FLOTUS, Michelle Obama.  I’ve worked on editorial illustrations for Real Simple, The Smithsonian Magazine, Tin House, UU World Magazine and on and on and on. _ 
+_Jen: Ooh … I keep my hands in many pots.  It’s part of the reason why I love freelance illustration … I never get bored.  The opportunities are wide and varied.  I do as many gallery shows as I possibly can.  I just closed a show in Providence last week and will have a piece in a group show at Rotofugi in Chicago in December.  I’ve done product design for Crate and Barrel, a board game called Lords and Ladies with my brother Jason, two years ago I was asked by Genevieve Gorder  to design a one of a kind ornament for former FLOTUS, Michelle Obama.  I’ve worked on editorial illustrations for Real Simple, The Smithsonian Magazine, Tin House, UU World Magazine and on and on and on. _ 
 
 **Bookroo: When you’re not working, what do you like to do?**
 
