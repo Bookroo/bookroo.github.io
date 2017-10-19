@@ -54,7 +54,7 @@ _Jen: My friends are my family and I spend a lot of time with them.  I like to e
 
 **Bookroo: We’ve heard you’re a big fan of breakfast. What are your favorites? **
 
-_Jen: Currently my favorite breakfast is half a bagle from a local, new bagel shop in town that makes AMAZING bagels, butter, scrambled egg, homemade pickled red onions and chopped up cherry tomatoes.  I really enjoy going out to breakfast with someone who will split a sweet dish and a savory dish.  I like a waffle, but I never want a whole one … or a whole stack of pancakes.  And now that it is getting colder I am looking forward to steel cut oatmeal.  I basically love breakfast because it’s so mix and matchy if you do it right.  I like to build._
+_Jen: Currently my favorite breakfast is half a bagel from a local, new bagel shop in town that makes AMAZING bagels, butter, scrambled egg, homemade pickled red onions and chopped up cherry tomatoes.  I really enjoy going out to breakfast with someone who will split a sweet dish and a savory dish.  I like a waffle, but I never want a whole one … or a whole stack of pancakes.  And now that it is getting colder I am looking forward to steel cut oatmeal.  I basically love breakfast because it’s so mix and matchy if you do it right.  I like to build._
 
 **Bookroo: Do you have any upcoming children’s books you’d like to share with our community of book lovers?**
 
