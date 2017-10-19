@@ -60,5 +60,4 @@ _Jen: Currently my favorite breakfast is half a bagel from a local, new bagel sh
 
 _Jen: In January, Brave Jane: Reader, Writer, Author, Rebel, written by Lisa Pliscou becomes available to the public.  It’s a children’s biography of Jane Austen that I really enjoyed working on.  I was even able to travel to England to research the areas that Jane Austen lived.  I am currently working on Small World, a book written by Ishta Mercurio.  It is a STEM-concept story that explores a girl's journey of growing up in the world and discovering its beauty._
  
-We really appreciate Jen’s willingness to share more about herself and her work with us. You can learn more about her on her website. And please let us know what you enjoyed from the interview in the comments below!
-
+We really appreciate Jen’s willingness to share more about herself and her work with us. You can learn more about her on her [website](http://jencorace.com/?page_id=64). And please let us know what you enjoyed from the interview in the comments below!
