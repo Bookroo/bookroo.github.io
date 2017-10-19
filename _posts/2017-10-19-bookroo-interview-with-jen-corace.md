@@ -1,6 +1,17 @@
 ---
 layout: post
 published: false
+permalink: /featured-childrens-book--illustrator-jen-corace
+categories:
+  - author/illustrator interview
+author: chandler
+comments: false
+related:
+  - /featured-childrens-book-author-beth-ferry
+  - /featured-childrens-book-author-pat-zietlow-miller
+images:
+  - url: Docherties.jpg
+    alt: Childrens Book Illustrator Jen Corace
 ---
 October Bookroo boxes have started arriving! We’re really excited about the books in this month’s board book boxes. One book we included is Little Hoot. It’s authored by the late Amy Krouse Rosenthal and illustrated by Jen Corace. It’s one in a series of three books presenting clever stories to little readers who don’t, for example, like to eat their vegetables at dinner (more spinach, Little Pea?). Little Hoot presents the terrible dilemma of Little Owl, who is forced to stay up late and play when he wants to go to bed. Even little readers are sure to appreciate the irony.
 
