@@ -1,14 +1,14 @@
 ---
 layout: post
 published: false
-permalink: /featured-childrens-book--illustrator-jen-corace
+permalink: /featured-childrens-book-illustrator-jen-corace
 categories:
   - author/illustrator interview
 author: chandler
 comments: false
 related:
-  - /featured-childrens-book-author-beth-ferry
-  - /featured-childrens-book-author-pat-zietlow-miller
+  - /featured-childrens-book-author-and-illustrator-paula-vasquez
+  - /featured-childrens-book-author-and-illustrator-helen-and-tom-docherty
 images:
   - url: Docherties.jpg
     alt: Childrens Book Illustrator Jen Corace
