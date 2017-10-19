@@ -17,6 +17,8 @@ October Bookroo boxes have started arriving! We’re really excited about the bo
 
 Today we’re excited to share an interview with Jen Corace, award-winning illustrator of _Little Hoot_ and many, many other books. Jen is originally from southern New Jersey but now lives in Providence, RI. She studied at the Rhode Island School of Design (“RISD”, pronounced “RIZ-dee”) where she earned a Bachelor of Fine Arts in illustration.
 
+![Jen Corace sketch of Little Hoot]({{site.baseurl}}/assets/img/posts/Little Hoot.jpg)
+
 **Bookroo: What did you enjoy most working on illustrations for Little Hoot and the other Little books?**
 
 _Jen:  What I enjoyed most about working on the LIttle series was it’s style.  It’s a looser, freer pen and ink style with watercolor fills.  It’s a nice break from other work that I do which tends to be more maniacally planned out, more detailed and uses a lot of pattern._
