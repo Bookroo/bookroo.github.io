@@ -10,14 +10,15 @@ related:
   - /featured-childrens-book--illustrator-jen-corace
   - /featured-childrens-book-author-and-illustrator-helen-and-tom-docherty
 images:
-  - url: Paula-Va╠üsquez_bn---resized.jpg
+  - url: Paula-Vasquez.jpg
     alt: Childrens Book Author and Illustrator Paula Vasquez
 ---
 October Bookroo boxes have started arriving! We loved finding the picture books for October’s boxes, and we hope you enjoy them as much as we have. 
 
 We think fall is such a fun time of year! The leaves in the trees are changing colors, the air is crisper. And it’s time to break out the jackets and wool sweaters. Speaking of wool, isn’t Lily Wool a super fun story! We were really excited to send it, and today we’re happy to bring you an interview with the author and illustrator of Lily Wool, Paula Vasquez.
 
-![Children's book author and illustrator Paula Vasquez]({{site.baseurl}}/assets/img/posts/Paula Va╠üsquez_bn - resized.jpg)
+![Childrens book author and illustrator Paula Vasquez]({{site.baseurl}}/assets/img/posts/Paula Vasquez.jpg)
+
 _Images courtesy of Paula Vasquez_
 
 Paula is a talented author and illustrator who is currently living and working in Santiago, Chile, though her work and studies have taken her all over the world, including Spain, London, and New York. She studied graphic design before pursuing illustration and graduating from Finis Terrae University. She also studied at Spain’s beautiful EINA Escola de Disseny i Art, located in Barcelona.
@@ -26,7 +27,7 @@ Paula is a talented author and illustrator who is currently living and working i
 
 _Paula: It started with a comic I made a long time ago. Years later, while studying a writing for children course in London, we met again and I thought, "Why not make a story?"_
 
-![Lily Wool comic sketches]({{site.baseurl}}/assets/img/posts/Va╠üsquez_Comic-01 - resize.jpg)
+![Lily Wool comic sketch]({{site.baseurl}}/assets/img/posts/Lily Wool comic.jpg)
 
 _I have always felt a bit like Lily Wool, with many dreams and multiple times it has not been easy to reach them. I made this story for me and for all those people who, like Lily, struggle for a dream and, even if there are adversities, they never lose hope._
 
