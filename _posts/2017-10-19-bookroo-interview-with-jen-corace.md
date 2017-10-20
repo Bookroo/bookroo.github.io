@@ -10,14 +10,14 @@ related:
   - /featured-childrens-book-author-and-illustrator-paula-vasquez
   - /featured-childrens-book-author-and-illustrator-helen-and-tom-docherty
 images:
-  - url: Little Hoot.jpg
+  - url: Little-Hoot.jpg
     alt: Childrens Book Illustrator Jen Corace
 ---
 October Bookroo boxes have started arriving! We’re really excited about the books in this month’s board book boxes. One book we included is _Little Hoot_. It’s authored by the late Amy Krouse Rosenthal and illustrated by Jen Corace. It’s one in a series of three books presenting clever stories to little readers who don’t, for example, like to eat their vegetables at dinner (more spinach, Little Pea?). _Little Hoot_ presents the terrible dilemma of Little Owl, who is forced to stay up late and play when he wants to go to bed. Even little readers are sure to appreciate the irony.
 
 Today we’re excited to share an interview with Jen Corace, award-winning illustrator of _Little Hoot_ and many, many other books. Jen is originally from southern New Jersey but now lives in Providence, RI. She studied at the Rhode Island School of Design (“RISD”, pronounced “RIZ-dee”) where she earned a Bachelor of Fine Arts in illustration.
 
-![Jen Corace sketch of Little Hoot]({{site.baseurl}}/assets/img/posts/Little Hoot.jpg)
+![Jen Corace sketch of Little Hoot]({{site.baseurl}}/assets/img/posts/Little-Hoot.jpg)
 _Getting the color right for Little Hoot, courtesy of Jen Corace_
 
 **Bookroo: What did you enjoy most working on illustrations for Little Hoot and the other Little books?**
