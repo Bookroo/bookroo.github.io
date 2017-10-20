@@ -55,7 +55,7 @@ _Jen: Ooh … I keep my hands in many pots.  It’s part of the reason why I lov
 
 _Jen: My friends are my family and I spend a lot of time with them.  I like to entertain so during the summer I try to have dinners on my front porch.  I have a sizeable garden that I try to keep under control.  I go on a lot of walks … I love to walk.  Oh, I also love to sleep, I’ve got a good bed.  But honestly on my downtime I’m often cooking up the next scheme for me to work on._
 
-**Bookroo: We’ve heard you’re a big fan of breakfast. What are your favorites? **
+**Bookroo: We’ve heard you’re a big fan of breakfast. What are your favorites?**
 
 _Jen: Currently my favorite breakfast is half a bagel from a local, new bagel shop in town that makes AMAZING bagels, butter, scrambled egg, homemade pickled red onions and chopped up cherry tomatoes.  I really enjoy going out to breakfast with someone who will split a sweet dish and a savory dish.  I like a waffle, but I never want a whole one … or a whole stack of pancakes.  And now that it is getting colder I am looking forward to steel cut oatmeal.  I basically love breakfast because it’s so mix and matchy if you do it right.  I like to build._
 
