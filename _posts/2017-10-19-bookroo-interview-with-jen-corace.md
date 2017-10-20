@@ -10,7 +10,7 @@ related:
   - /featured-childrens-book-author-and-illustrator-paula-vasquez
   - /featured-childrens-book-author-and-illustrator-helen-and-tom-docherty
 images:
-  - url: Docherties.jpg
+  - url: Little-Hoot.jpg
     alt: Childrens Book Illustrator Jen Corace
 ---
 October Bookroo boxes have started arriving! We’re really excited about the books in this month’s board book boxes. One book we included is _Little Hoot_. It’s authored by the late Amy Krouse Rosenthal and illustrated by Jen Corace. It’s one in a series of three books presenting clever stories to little readers who don’t, for example, like to eat their vegetables at dinner (more spinach, Little Pea?). _Little Hoot_ presents the terrible dilemma of Little Owl, who is forced to stay up late and play when he wants to go to bed. Even little readers are sure to appreciate the irony.
@@ -35,7 +35,7 @@ _Jen: Children’s book work is definitely a team effort.  I mostly take notes a
 
 **Bookroo: Can you tell us about the path that led you to becoming an illustrator?**
 
-_Jen: Growing up, I had a mom who was very encouraging of my interest in drawing and art.  She placed me in many after school and summer art programs and she was the one who talked to my high school guidance counselor about art schools.  So she really gave me a lot of support to find my feet and feel like a career in art could be a reality.  
+_Jen: Growing up, I had a mom who was very encouraging of my interest in drawing and art.  She placed me in many after school and summer art programs and she was the one who talked to my high school guidance counselor about art schools.  So she really gave me a lot of support to find my feet and feel like a career in art could be a reality._  
 
 _Other than that the type of work I naturally am drawn to is narrative in nature, so studying illustration was an obvious fit for me._
 
