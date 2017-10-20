@@ -58,4 +58,4 @@ _Paula: These days I have been busy working on a new book for the little ones an
 
 ![Lily Wool wall paper]({{site.baseurl}}/assets/img/posts/Lily Wool Wall Paper - resized.jpg)
 
-We really appreciate the chance to learn more about Paula and her work as an author and illustrator. Yay for more Lily Wool! You can learn more about Paula on her [website](https://www.paulavasquez.com/about-me), where you can also find fun activities connected to Lily Wool, including tutorials for drawing your own Lily Wool. And please let us know what you enjoyed from the interview in the comments below!
+We really appreciate the chance to learn more about Paula and her work as an author and illustrator. Yay for more Lily Wool! You can learn more about Paula on her [website](https://www.paulavasquez.com/about-me), where you can also find fun activities connected to Lily Wool, including [tutorials](https://www.paulavasquez.com/when-i-grow-up) for drawing your own Lily Wool. And please let us know what you enjoyed from the interview in the comments below!
