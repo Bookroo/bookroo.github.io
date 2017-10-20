@@ -1,11 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /featured-childrens-book-illustrator-jen-corace
 categories:
   - author/illustrator interview
 author: chandler
-comments: false
+comments: true
 related:
   - /featured-childrens-book-author-and-illustrator-paula-vasquez
   - /featured-childrens-book-author-and-illustrator-helen-and-tom-docherty
