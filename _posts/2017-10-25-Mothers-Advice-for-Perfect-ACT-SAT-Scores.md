@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /Mothers-Advice-for-Perfect-ACT-SAT-Scores
 categories:
   - importance of reading
