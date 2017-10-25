@@ -27,6 +27,8 @@ Learning to jugge, as it turns out, was just one example the mother shared of th
 
 **Buy Books**
 
-Last but not least, the mother shared the importance of buying books. As she said, "[D]on't forget to buy books. Research proves book owners have smarter children . . . When families own books they are much more likely to all read them and discuss concepts and characters (which is where the real learning begins!)."
+Last but not least, the mother shared the importance of buying books. She said, "[D]on't forget to buy books. Research proves book owners have smarter children . . . When families own books they are much more likely to all read them and discuss concepts and characters (which is where the real learning begins!)."
+
+--
 
 We recommend taking time to check out the whole [article](http://community.today.com/parentingteam/post/actsat-test-prep-tricks-from-a-family-with-three-perfect-scores_1505933651). Helping your child, niece, nephew, or grandchild begin building a solid foundation in his or her youth is priceless. If you're looking for a fun and convenient way to build her or his personal library of books, give Bookroo a try. Kids love receiving their monthly Bookroo deliveries! Sign up for our [newsletter](https://bookroo.com/) today and save 15% on your order.
