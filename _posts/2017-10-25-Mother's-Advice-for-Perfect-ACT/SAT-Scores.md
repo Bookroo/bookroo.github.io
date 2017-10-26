@@ -27,7 +27,7 @@ Learning to juggle, as it turns out, was just one example the mother shared of t
 
 **Buy Books**
 
-Last but not least, the mother shared the importance of buying books. She said, "[D]on't forget to buy books. Research proves book owners have smarter children . . . When families own books they are much more likely to all read them and discuss concepts and characters (which is where the real learning begins!)."
+Last but not least, the mother shared the importance of buying books. As she said, "[D]on't forget to buy books." She explained that frequenting the library is not enough because "[r]esearch proves book owners have smarter children" and cited to this [study](http://www.sciencedirect.com/science/article/pii/S0276562410000090). She also encouraged families to take time to discuss together the books they read, explaining that such discussions are "where the real learning begins!"
 
 --
 
