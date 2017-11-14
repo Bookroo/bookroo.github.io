@@ -15,7 +15,6 @@ images:
 Have you ever been so grateful? Felt so blessed? Or like you’ve just experienced a day of miracles? This sounds like it should be a thanksgiving post or something, but it's just my real life right now.
 
 ![Fulfillment with baby]({{site.baseurl}}/assets/img/posts/FulfillmentwithAugust.jpg)
-__Two weeks old and already helping with Bookroo fulfillment
 
 Some of you may remember my [miscarriage](http://blog.bookroo.com/my-heart-is-like-a-zoo) post a while back. So you can probably imagine my joy when we found out we were pregnant again and I made it to 11 weeks, and then to 14 weeks, and so on. Even though it wasn't easy and I had signs of miscarriage and plenty of early contractions, this pregnancy was also filled with miracles and blessings.
 
