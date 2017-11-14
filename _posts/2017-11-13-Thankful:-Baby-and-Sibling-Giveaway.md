@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-permalink: /new-baby-and-sibling-giveaway
+permalink: /thankful-baby-and-sibling-giveaway
 categories:
   - family
 author: tiffany
