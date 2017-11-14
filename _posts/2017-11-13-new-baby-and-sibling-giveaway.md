@@ -14,6 +14,8 @@ images:
 ---
 Have you ever been so grateful? Felt so blessed? Or like you’ve just experienced a day of miracles? This sounds like it should be a thanksgiving post or something, but it's just my real life right now.
 
+
+
 Some of you may remember my miscarriage post a while back. So you can probably imagine my joy when we found out we were pregnant again and I made it to 11 weeks, and then to 14 weeks, and so on. Even though it wasn't easy and I had signs of miscarriage and plenty of early contractions, this pregnancy was also filled with miracles and blessings.
 
 Because of those blessings, I knew I would make it full term with this baby. I made sure I didn't overdo it though and was very cautious. My little Christian had to learn quickly that momma couldn't carry him around like he liked me to. That was hard for both of us. It was also a perfect time for him to make a stronger connection with daddy and learn some independence before becoming a big brother. 
@@ -35,5 +37,3 @@ To top this off, our sister-in-law had her baby two days later. We have been in 
 We have had incredible kindness shown to us as our baby arrived home. Meals brought in, laundry done, big boy play dates, and gifts for both the baby and his big brothers. As I have seen this kindness, I thought that this might be the perfect time for Bookroo to run a fun new baby deal.  If you know someone expecting a baby or with a newborn, you can purchase a board book bundle and receive a free picture book or junior book bundle for the older siblings! Just use code NEWBABY at checkout. 
 
 Enjoy the little piece of heaven coming to your world!
-
-(If you've wondered why I keep referring to him as “the baby” it's because he didn't have a name for 9 days, and that’s another story).
