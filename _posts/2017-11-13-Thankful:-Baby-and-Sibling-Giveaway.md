@@ -9,7 +9,7 @@ comments: true
 related:
   - /my-heart-is-like-a-zoo
 images:
-  - url: smiling.jpg
+  - url: Smiling.jpg
     alt: baby smiling on rug
 ---
 Have you ever been so grateful? Felt so blessed? Or like you’ve just experienced a day of miracles? This sounds like it should be a thanksgiving post or something, but it's just my real life right now.
