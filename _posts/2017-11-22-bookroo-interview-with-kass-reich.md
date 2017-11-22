@@ -58,4 +58,4 @@ _Kass: Yes! I have recently finished illustrating a book with Kids Can Press cal
 
 We really appreciate the opportunity to learn more about Kass and her work as an author, illustrator and educator. You can see more of her work on her [website](http://www.kassreich.com/). And please let us know what you enjoyed from the interview in the comments below!
 
-(All images in this interview courtesy of Kass Reich)
+(All images in this interview courtesy of Kass Reich.)
