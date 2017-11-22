@@ -5,7 +5,7 @@ permalink: /featured-childrens-book-author-and-illustrator-kass-reich
 categories:
   - author/illustrator interview
 author: chandler
-comments: false
+comments: true
 related:
   - /featured-childrens-book--illustrator-jen-corace
   - /featured-childrens-book-author-and-illustrator-helen-and-tom-docherty
