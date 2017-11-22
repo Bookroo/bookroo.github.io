@@ -45,7 +45,7 @@ _Anna: I love investigating my own emotions and thoughts, silly or serious. It�
 
 _Anna: I do an outline of a story, then I work on sketches right away. It’s easier for me to figure things out visually. I make sure all my sketches fit and flow nicely. Then I go over each page and add text or leave it blank for the illustration to tell the story. It’s a balancing act that I've learned to enjoy._
 
-![Children's book author and illustrator Anna Kang's drawings]({{site.baseurl}}/assets/img/posts/characterstudy.jpg)![characterstudy.jpg]
+![Children's book author and illustrator Anna Kang's house sketch]({{site.baseurl}}/assets/img/posts/house.jpg)
 
 **Bookroo: What does a regular day look like for you?**
 
