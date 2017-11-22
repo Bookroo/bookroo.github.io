@@ -7,7 +7,7 @@ categories:
 author: chandler
 comments: true
 related:
-  - /featured-childrens-book--illustrator-jen-corace
+  - /featured-childrens-book-author-and-illustrator-anna-kang
   - /featured-childrens-book-author-and-illustrator-helen-and-tom-docherty
 images:
   - url: kass.jpg
