@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /featured-childrens-book-author-and-illustrator-anna-kang
 categories:
   - author/illustrator interview
@@ -67,4 +67,4 @@ _The second Papillon book was just released last October: Papillon Goes to the V
 
 We really appreciate the chance to learn more about Anna and her work as an author and illustrator. You can learn more about her on her [website](http://www.annakangdesign.com/about-me/). And please let us know what you enjoyed from the interview in the comments below!
 
-(All images in this interview courtesy of Anna Kang)
+(All images in this interview courtesy of Anna Kang.)
