@@ -57,3 +57,5 @@ _Kass: Outside of art I love everything about dogs, traveling and food (both eat
 _Kass: Yes! I have recently finished illustrating a book with Kids Can Press called Dr. Coo and the Pigeon Protest written by Sarah Hampson. It will hit bookshelves next spring. It was so much fun to work on. I also have a bunch of upcoming projects with Tundra books that I’m also super excited about._
 
 We really appreciate the opportunity to learn more about Kass and her work as an author, illustrator and educator. You can see more of her work on her [website](http://www.kassreich.com/). And please let us know what you enjoyed from the interview in the comments below!
+
+(All images in this interview courtesy of Kass Reich)
