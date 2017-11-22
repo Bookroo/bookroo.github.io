@@ -59,7 +59,7 @@ _Anna: My boyfriend and I love seeing new places so we travel a lot. People are 
 
 _I know it sounds really bad but I love watching TV. It’s a great source of inspiration for me. Interesting images or conversations always trigger my train of thoughts/imaginations. So when I can’t think, I watch TV._
 
-![Children's book author and illustrator Anna Kang's early sketch]({{site.baseurl}}/assets/img/posts/Misstilly.jpg)
+![Children's book author and illustrator Anna Kang's early sketches]({{site.baseurl}}/assets/img/posts/Misstillycropped.jpg)
 
 **Bookroo: We know _The Very Fluffy Kitty, Papillon_ is a three-book series. Can you tell us more about the series? Do you have any other books currently in the works?** 
 
