@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /featured-childrens-book-author-and-illustrator-kass-reich
 categories:
   - author/illustrator interview
