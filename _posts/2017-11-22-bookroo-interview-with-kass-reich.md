@@ -34,7 +34,7 @@ _Kass: I did! They seemed to really like it, there were a lot of laughs. The pre
 
 _Kass: I had absolutely no idea anything would come of my little hamster characters. Before I moved abroad I was really into oil painting but shifted gears towards illustration as the supplies were easier to pack and they didn’t require a properly ventilated studio space to work with. Since I was teaching little guys it seemed like a natural next step to write and illustrate for them. I never considered trying to get published until my mom submitted my book to Orca Book Publishers without telling me. It was a serious shock when got an email from them saying they wanted to publish my book! After that, one book turned into a series of four. I’m not sure if I would have pursued a career as an illustrator if it weren’t for that surprise email. Thanks mom._
 
-**Bookroo: As both a writer and an illustrator, what are the differences and similarities between the writing process and the illustrating process? **
+**Bookroo: As both a writer and an illustrator, what are the differences and similarities between the writing process and the illustrating process?**
 
 _Kass: That’s sort of a tricky one to answer because I’m not even sure I would consider myself a writer. I always start with the imagery I would like to illustrate then the words follow. The art carries a lot more weight in the process for me. This is probably because my background is in visual arts. These days I’ve been working on picture books vs. board books. For these types of projects I’ve been paired with authors. I do have a few ideas brewing for stories of my own and maybe one day I’ll sit down to write them. But for now I’m pretty happy creating art for other people's narratives._
 
