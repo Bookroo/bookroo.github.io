@@ -1,6 +1,17 @@
 ---
 layout: post
 published: false
+permalink: /featured-childrens-book-author-and-illustrator-emma-randall
+categories:
+  - author/illustrator interview
+author: chandler
+comments: false
+related:
+  - /featured-childrens-book-author-and-illustrator-anna-kang
+  - /featured-childrens-book-author-and-illustrator-kass-reich
+images:
+  - url: kass.jpg
+    alt: Childrens Book Author and Illustrator Emma Randall
 ---
 The weather outside may be frightful, but that’s just a good reason to curl up inside with a book! And with this month’s Bookroo boxes arriving soon, you’ll have some delightful new books to enjoy together! 
 
