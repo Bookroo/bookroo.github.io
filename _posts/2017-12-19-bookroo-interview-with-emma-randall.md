@@ -1,11 +1,11 @@
 ---
 layout: post
-published: true
+published: false
 permalink: /featured-childrens-book-author-and-illustrator-emma-randall
 categories:
   - author/illustrator interview
 author: chandler
-comments: true
+comments: false
 related:
   - /featured-childrens-book-author-and-illustrator-anna-kang
   - /featured-childrens-book-author-and-illustrator-kass-reich
