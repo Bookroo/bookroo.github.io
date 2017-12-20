@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /featured-childrens-book-author-and-illustrator-emma-randall
 categories:
   - author/illustrator interview
