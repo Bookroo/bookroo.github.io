@@ -10,12 +10,15 @@ related:
   - /featured-childrens-book-author-and-illustrator-anna-kang
   - /featured-childrens-book-author-and-illustrator-kass-reich
 images:
-  - url: kass.jpg
+  - url: EmmaRandall.jpg
     alt: Childrens Book Author and Illustrator Emma Randall
 ---
 The weather outside may be frightful, but that’s just a good reason to curl up inside with a book! And with this month’s Bookroo boxes arriving soon, you’ll have some delightful new books to enjoy together! 
 
-One book featured in this month’s Bookroo board book boxes is _The Snowman Shuffle_, written by Christianne Jones and illustrated by Emma Randall. This timely tale is certain to be a fun read for your little one this snowy season. 
+One book featured in this month’s Bookroo board book boxes is _The Snowman Shuffle_, written by Christianne Jones and illustrated by Emma Randall. This timely tale is certain to be a fun read for your little one this snowy season.
+
+![Children's Book Illustrator Emma Randall]({{site.baseurl}}/assets/img/posts/EmmaRandall.jpg)
+
 
 We were able to interview Emma Randall this month, and we’re excited to share more about her and her work. Emma is a UK-based children’s book illustrator. She creates her delightful illustrations from a barn studio in the village of Tickenham, on the outskirts of Bristol, England. Dreamy, right? She has illustrated over ten children’s books, and she also has a lovely [shop](http://www.emmarandall.co.uk/shop/) featuring illustrations, cards, and other clever creations.
 
