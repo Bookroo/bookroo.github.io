@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-permalink: /featured-childrens-book-author-and-illustrator-emma-randall
+permalink: /featured-childrens-book-illustrator-emma-randall
 categories:
   - author/illustrator interview
 author: chandler
