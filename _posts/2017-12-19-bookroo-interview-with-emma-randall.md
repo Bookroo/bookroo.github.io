@@ -19,7 +19,6 @@ One book featured in this month’s Bookroo board book boxes is _The Snowman Shu
 
 ![Children's Book Illustrator Emma Randall]({{site.baseurl}}/assets/img/posts/EmmaRandall.jpg)
 
-
 We were able to interview Emma Randall this month, and we’re excited to share more about her and her work. Emma is a UK-based children’s book illustrator. She creates her delightful illustrations from a barn studio in the village of Tickenham, on the outskirts of Bristol, England. Dreamy, right? She has illustrated over ten children’s books, and she also has a lovely [shop](http://www.emmarandall.co.uk/shop/) featuring illustrations, cards, and other clever creations.
 
 **Bookroo: What did you enjoy most about creating illustrations for _The Snowman Shuffle_?**
@@ -33,6 +32,8 @@ _Emma: Firstly I draw lots of thumbnails to work out the rough composition. Then
 **Bookroo: What is one challenge you’ve had to overcome to succeed as a children’s book illustrator?**
 
 _Emma: I had to really work hard on figuring out my style for a few years, even after university. It took me a long time to start getting book commissions, and Plum Pudding (my agents) were amazing in helping me to get my work to where it is today during that time. It was challenging to keep going - but I am so happy I persevered._ 
+
+![Children's Book Illustrator Emma Randall]({{site.baseurl}}/assets/img/posts/HC Emma at work 2 resized.jpg)
 
 **Bookroo: The studio barn sounds like a great workspace. Can you tell us more about it?**
 
@@ -54,6 +55,8 @@ _Emma: Recently I worked on a picture book with Penguin Random House: ‘The Twe
 
 _Emma: I love spending time with my little baby boy Herbie and my husband Max, reading, shopping, cooking (and eating!) and cycling my little blue bike._
 
+![Children's Book Illustrator Emma Randall]({{site.baseurl}}/assets/img/posts/emma and family.jpg)
+
 **Bookroo: What is your favorite food?**
 
 _Emma: Chocolate of course! And roast dinners._ 
@@ -64,6 +67,10 @@ _Emma: To see the Northern Lights. We went to Iceland to see them one year but i
 
 **Bookroo: Do you have any upcoming books you can tell us about?**
 
-_Emma: Yes! I’ve worked on another title recently: ‘Over the River and Through the Wood.’ It is my take on the classic thanksgiving poem, I really loved creating some wintry landscapes for that one -  it comes out next August._ 
+_Emma: Yes! I’ve worked on another title recently: ‘Over the River and Through the Wood.’ It is my take on the classic thanksgiving poem, I really loved creating some wintry landscapes for that one -  it comes out next August._
+
+![Children's Book Illustrator Emma Randall]({{site.baseurl}}/assets/img/posts/emma randall elf.jpg)
 
 We really appreciate the opportunity to learn more about Emma and her work as an illustrator. You can see more of her work on her [website](http://www.emmarandall.co.uk/). And please let us know what you enjoyed from the interview in the comments below!
+
+(All images in this interview courtesy of Emma Randall.)
