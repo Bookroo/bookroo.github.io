@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /featured-childrens-book-author-and-illustrator-rob-biddulph
 categories:
   - author/illustrator interview
@@ -97,4 +97,3 @@ _Rob: Well, I’m currently working on a series of books called ‘Dinosaur Juni
 We really appreciate the opportunity to learn more about Rob and his work as an author and illustrator. You can learn more about him and see more of his work on his [website](http://www.robbiddulph.com/home/). And please let us know what you enjoyed from the interview in the comments below!
 
 (All images in this interview courtesy of Rob Biddulph.)
-
