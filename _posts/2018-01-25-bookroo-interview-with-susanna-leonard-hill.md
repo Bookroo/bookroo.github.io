@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /featured-childrens-book-author-susanna-leonard-hill
 categories:
   - author/illustrator interview
