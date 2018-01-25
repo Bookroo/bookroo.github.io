@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /featured-childrens-book-author-susanna-leonard-hill
 categories:
   - author/illustrator interview
@@ -78,4 +78,3 @@ _Susanna:  I have 7 books coming out over the next 2 years, some of which I canâ
 We really appreciate the opportunity to learn more about Susanna and her work as an author. You can learn more about her and see more of her work on her [website](https://susannahill.com/). And please let us know what you enjoyed from the interview in the comments below!
 
 (All images in this interview are courtesy of Susanna Leonard Hill.)
-
