@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 permalink: /featured-childrens-book-author-susanna-leonard-hill
 categories:
   - author/illustrator interview
@@ -17,7 +17,7 @@ Happy New Year! We hope your 2018 is off to a terrific start. However it has bee
 
 We had a great time putting together this month’s boxes. One book we’re very excited to share in our Bookroo board book boxes is _When Your Elephant Has the Sniffles_, written by Susanna Leonard Hill and illustrated by Daniel Wiseman.
 
-Today we’re happy to share with you an interview we did with author Susanna Hill to learn more about her work creating _When Your Elephant Has the Sniffles_ and other books.
+Today we’re happy to share with you an interview we did with author Susanna Hill to learn more about her work creating _When Your Elephant Has the Sniffles_ and other books. (The interview has been edited for brevity.)
 
 ![Children's book author Susanna Hill]({{site.baseurl}}/assets/img/posts/Susanna.jpg)
 
