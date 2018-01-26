@@ -10,20 +10,22 @@ related:
   - /featured-childrens-book-author-and-illustrator-emma-randall
   - /featured-childrens-book-author-susanna-leonard-hill
 images:
-  - url: GRRRRR.jpg
+  - url: rob.jpg
     alt: Childrens Book Author and Illustrator Rob Biddulph
 ---
 Hooray for a new year! And hooray for a new month! Because you know what that means - another Bookroo box is on its way!
 
 This month’s Bookroo picture book boxes feature two really wonderful books. One of the books featured is _GRRRRR!_. It’s a clever tale about champion growler Fred and what happens when a new challenger comes to town. We won’t spoil the surprise, but we can tell you that the story is from champion author and illustrator Rob Biddulph, and today we’re excited to bring you an interview with Rob.
 
-![Children's book author and illustrator Rob Biddulph]({{site.baseurl}}/assets/img/posts/GRRRRR.jpg)
+![Children's book author and illustrator Rob Biddulph]({{site.baseurl}}/assets/img/posts/rob.jpg)
 
 Rob is an award-winning and bestselling author and illustrator. He has authored or illustrated over ten books. His awards include the Waterstones Children’s Book Prize and the BSC Festival of Literature Picture Book Award, as well as being shortlisted for The People’s Book Award. He lives in London with his wife and three daughters, writes and illustrates full time, and cheers for Arsenal (for the soccer/football fans in the audience).
 
 **Bookroo: Where did you get the idea for _GRRRRR!_?**
 
 _Rob: The problem with ideas is you never know when you’re going to get one. Also they often disappear as quickly as they arrive. So I have a google doc permanently open on my phone and am sure to make a quick note whenever and wherever inspiration strikes. This is what happened with GRRRRR!: I was in the car listening to an easy listening radio station called Magic FM and a song by a band called Everything But The Girl came on. For some reason I thought “Ooh, ‘Everything But The GRRRRR’ would make a good title for a picture book” so I made a note. A few days later I had a longer think about who could be missing this GRRRRR and, for some reason, I decided that a story about a prize-winning bear who lost his growl the day before a loud-growling competition might have potential. I then knuckled down to some sketchbook work and managed to extrapolate a fuller story arc from that original kernel, weaving in a subtle message about friendship and the fact that winning isn’t everything along the way. And so GRRRRR! was born._  
+
+![Children's book author and illustrator Rob Biddulph]({{site.baseurl}}/assets/img/posts/GRRRRR.jpg)
 
 **Bookroo: What do you do to brainstorm ideas for new stories?**
  
