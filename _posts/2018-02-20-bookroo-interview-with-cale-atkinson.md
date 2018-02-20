@@ -41,7 +41,7 @@ _Cale: I really take inspiration from anywhere and everywhere. From people I see
 
 **Bookroo: How do you know what a character needs to look like? Does the author always have an idea for that?**
 
-_Cale: If I’m illustrating a book for another Author they may have some notes/ideas on the characters appearance. Overall, I try and get an understanding what the character is all about from the book itself. What’s her/his personality? Is she/he loud? Quiet? Messy or tidy? All those little details help in how I end up drawing them._
+_Cale: If I’m illustrating a book for another Author they may have some notes/ideas on the character's appearance. Overall, I try and get an understanding what the character is all about from the book itself. What’s her/his personality? Is she/he loud? Quiet? Messy or tidy? All those little details help in how I end up drawing them._
 
 **Bookroo: What does a typical workday look like for you?**
 
@@ -71,7 +71,7 @@ _Cale: I have a habit of including tiny/hidden details in many of my books. If y
 
 **Bookroo: You always seem to be doing something exciting. What’s some of your upcoming work that our community of book lovers should be looking out for?**
 
-_Cale: I am SUPER EXCITED to say I have two books coming out in 2018 that I both wrote and illustrated. **Off & Away** will be released on June 5th, a story of Jo’s great adventure overcoming her fears. **Sir Simon: Super Scarer** will hit shelves on September 4th. Simon let’s you in on the scoop of what being a ghost is all about, while at the same time learning what being a friend is all about. Aside from those I’m busily writing away, hoping to bring more stories out into the world._
+_Cale: I am SUPER EXCITED to say I have two books coming out in 2018 that I both wrote and illustrated. **Off & Away** will be released on June 5th, a story of Jo’s great adventure overcoming her fears. **Sir Simon: Super Scarer** will hit shelves on September 4th. Simon lets you in on the scoop of what being a ghost is all about, while at the same time learning what being a friend is all about. Aside from those I’m busily writing away, hoping to bring more stories out into the world._
 
 _Thank you so much for the interview, and thanks to everyone for reading my stories. It means the world to me, and I can only hope they find some meaning with you._
 
