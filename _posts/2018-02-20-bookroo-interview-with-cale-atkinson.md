@@ -51,7 +51,7 @@ _Cale: I usually start the day checking and responding to messages/emails. Next 
 
 **Bookroo: How do you think your recent trip to Portugal will shape your future work?**
 
-_Cale: I think travelling and seeing/experiencing different parts of the world is a wonderful way to bring new inspiration into your work. We’ll see if any future books have a European flair to them! Portugal has so much beauty in its cities! The amazing tiles on buildings, bright colours, plants growing everywhere! I hope I get to put everything I’m taking in out here into a future project :)_
+_Cale: I think traveling and seeing/experiencing different parts of the world is a wonderful way to bring new inspiration into your work. We’ll see if any future books have a European flair to them! Portugal has so much beauty in its cities! The amazing tiles on buildings, bright colours, plants growing everywhere! I hope I get to put everything I’m taking in out here into a future project :)_
 
 ![Children's Book Author and Illustrator Cale Atkinson]({{site.baseurl}}/assets/img/posts/Seville_Caleedit.jpg)
 
