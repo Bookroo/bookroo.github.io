@@ -31,7 +31,7 @@ _Cale: Nearly all my ideas come out of times when I’m drawing or sketching for
 
 **Bookroo: Have you always wanted to write your own stories as well as illustrate?**
 
-_Cale: For as long as I can remember I’ve loved telling stories through drawing. Ever since I was a kid I’ve been doing it, be it through stories, comic books or comic strips. I’ve always merged the writing and illustrating to be able to create my stories, whether in a single sketch or full book. _
+_Cale: For as long as I can remember I’ve loved telling stories through drawing. Ever since I was a kid I’ve been doing it, be it through stories, comic books or comic strips. I’ve always merged the writing and illustrating to be able to create my stories, whether in a single sketch or full book._
 
 ![Children's Book Author and Illustrator Cale Atkinson]({{site.baseurl}}/assets/img/posts/Cale_Studio2edit.jpg)
 
