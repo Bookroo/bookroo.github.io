@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /free-box-friday-official-rules
 ---
 FREE BOX FRIDAY - OFFICIAL RULES
