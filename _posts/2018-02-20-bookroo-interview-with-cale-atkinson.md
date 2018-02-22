@@ -19,28 +19,28 @@ There’s lots of love in the air this time of month. And what better way to cel
 
 We are thrilled to feature To the Sea in this month’s Bookroo picture book boxes. To the Sea is the creation of the talented Cale Atkinson, who works not only as an illustrator and writer but also as an animator. Cale currently resides in Kelowna, Canada. He claims to love tea more than sleep, which makes sense when you realize how many projects and clients he’s dealing with on a regular basis. With creative storytelling and engaging illustrations, Cale’s work has earned awards like Buzzfeed 17 Most Beautiful Books 2015, Ontario Library Association Best Bets Top 10 2015, and CBC Children's Choice Award Finalist 2016.  Cale recently spent a month in Portugal, and you can see his incredible Lisbon-inspired art on his Twitter account where he regularly updates his followers as to his coming adventures and works. (The interview has been edited for clarity.)
 
-<iframe src="https://player.vimeo.com/video/137018671" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/137018671">TO THE SEA - Book Trailer</a> from <a href="https://vimeo.com/caleatkinson">cale atkinson</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 **Bookroo: To The Sea is an inspiring story of friendship. Why did you create this story?**
 
 _Cale: There have been many moments growing up where I've felt alone and unseen, almost invisible in my surroundings. I think most of us have those moments some time or another. I wanted to write a story which captured that feeling, and then showed how everything can change once you meet a friend (or whale!) that sees you for who you are. Having a true friend is a mighty special thing and can turn any rainy day to sunny skies. I wanted to create To The Sea to tell everyone out there, "You are not invisible, I see you!"_
 
-![Cale Atkinson studio]({{site.baseurl}}/assets/img/posts/Cale_Studio1edit.jpg)
+<iframe src="https://player.vimeo.com/video/137018671" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/137018671">TO THE SEA - Book Trailer</a> from <a href="https://vimeo.com/caleatkinson">cale atkinson</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 **Bookroo: How have you come up with your most successful story ideas?**
 
 _Cale: Nearly all my ideas come out of times when I’m drawing or sketching for fun. When I’m getting lost in my own drawings I never know what ideas may arise or where the pencil will lead me. Before I know it, I’m drawing a big whale on a rainy day or a small puzzle piece on the search for his fit._
 
+![Cale Atkinson studio]({{site.baseurl}}/assets/img/posts/Cale_Studio1edit.jpg)
+
 **Bookroo: Have you always wanted to write your own stories as well as illustrate?**
 
 _Cale: For as long as I can remember I’ve loved telling stories through drawing. Ever since I was a kid I’ve been doing it, be it through stories, comic books or comic strips. I’ve always merged the writing and illustrating to be able to create my stories, whether in a single sketch or full book._
 
-![Children's Book Author and Illustrator Cale Atkinson]({{site.baseurl}}/assets/img/posts/Cale_Studio2edit.jpg)
-
 **Bookroo: Do you find inspiration for characters in children that you know in real life?**
 
 _Cale: I really take inspiration from anywhere and everywhere. From people I see on a walk, to friends or neighbors I grew up with, everything collects in the stove pot that is my brain and simmers until an idea requires the inspiration to bubble over._
+
+![Children's Book Author and Illustrator Cale Atkinson]({{site.baseurl}}/assets/img/posts/Cale_Studio2edit.jpg)
 
 **Bookroo: How do you know what a character needs to look like? Does the author always have an idea for that?**
 
