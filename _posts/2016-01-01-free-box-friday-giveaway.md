@@ -1,6 +1,7 @@
 ---
 layout: post
 published: false
+permalink: /free-box-friday-official-rules
 ---
 FREE BOX FRIDAY - OFFICIAL RULES
 
