@@ -19,6 +19,9 @@ There’s lots of love in the air this time of month. And what better way to cel
 
 We are thrilled to feature To the Sea in this month’s Bookroo picture book boxes. To the Sea is the creation of the talented Cale Atkinson, who works not only as an illustrator and writer but also as an animator. Cale currently resides in Kelowna, Canada. He claims to love tea more than sleep, which makes sense when you realize how many projects and clients he’s dealing with on a regular basis. With creative storytelling and engaging illustrations, Cale’s work has earned awards like Buzzfeed 17 Most Beautiful Books 2015, Ontario Library Association Best Bets Top 10 2015, and CBC Children's Choice Award Finalist 2016.  Cale recently spent a month in Portugal, and you can see his incredible Lisbon-inspired art on his Twitter account where he regularly updates his followers as to his coming adventures and works. (The interview has been edited for clarity.)
 
+<iframe src="https://player.vimeo.com/video/137018671" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/137018671">TO THE SEA - Book Trailer</a> from <a href="https://vimeo.com/caleatkinson">cale atkinson</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 **Bookroo: To The Sea is an inspiring story of friendship. Why did you create this story?**
 
 _Cale: There have been many moments growing up where I've felt alone and unseen, almost invisible in my surroundings. I think most of us have those moments some time or another. I wanted to write a story which captured that feeling, and then showed how everything can change once you meet a friend (or whale!) that sees you for who you are. Having a true friend is a mighty special thing and can turn any rainy day to sunny skies. I wanted to create To The Sea to tell everyone out there, "You are not invisible, I see you!"_
