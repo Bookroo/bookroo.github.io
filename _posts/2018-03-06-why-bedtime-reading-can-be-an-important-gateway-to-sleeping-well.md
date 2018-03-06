@@ -10,7 +10,7 @@ related:
   - /featured-childrens-book-author-and-illustrator-rob-biddulph
   - /featured-childrens-book-author-susanna-leonard-hill
 images:
-  - url: boy_reading.jpg
+  - url: boy_reading.jpeg
     alt: reading books
 ---
 ## Why Bedtime Reading Can Be an Important Gateway to Sleeping Well
