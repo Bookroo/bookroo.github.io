@@ -10,14 +10,17 @@ related:
   - /featured-childrens-book-author-and-illustrator-rob-biddulph
   - /featured-childrens-book-author-susanna-leonard-hill
 images:
-  - url: Cale.jpg
-    alt: Childrens Book Author and Illustrator Cale Atkinson
+  - url: boy_reading.jpg
+    alt: reading books
 ---
 ## Why Bedtime Reading Can Be an Important Gateway to Sleeping Well
 
 Earlier this year, [Bookroo had the pleasure of interviewing Susanna Leonard Hill](http://blog.bookroo.com/featured-childrens-book-author-susanna-leonard-hill), mother of five and author of 15 children’s books. Among her work are the well loved stories _When Your Elephant Has the Sniffles_ and _Can’t Sleep without Sheep_, which again show just how much children stand to gain from bedtime reading.
 
 The educational benefits of bedtime reading have been explored by researchers countless times. [The Child Development Institute elaborates on how bedtime reading](https://childdevelopmentinfo.com/child-activities/5-reasons-you-should-read-to-your-child-every-night/#.WnRM1KiWa03) builds vocabulary; improves attention span; expands imagination; and helps develop logic skills necessary in many aspects of life. However, a lesser touted but equally important benefit of bedtime reading is its ability to give both children and adults a more restorative night’s rest.
+
+![girl sleeping]({{site.baseurl}}/assets/img/posts/girl_sleeping.jpeg)
+
 
 ### Making your child feel safe
 
