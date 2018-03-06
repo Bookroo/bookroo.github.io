@@ -20,7 +20,7 @@ Earlier this year, [Bookroo had the pleasure of interviewing Susanna Leonard Hil
 
 The educational benefits of bedtime reading have been explored by researchers countless times. [The Child Development Institute elaborates on how bedtime reading](https://childdevelopmentinfo.com/child-activities/5-reasons-you-should-read-to-your-child-every-night/#.WnRM1KiWa03) builds vocabulary; improves attention span; expands imagination; and helps develop logic skills necessary in many aspects of life. However, a lesser touted but equally important benefit of bedtime reading is its ability to give both children and adults a more restorative night’s rest.
 
-![girl sleeping]({{site.baseurl}}/assets/img/posts/peaceful_girl_sleeping.jpg)
+![boy reading]({{site.baseurl}}/assets/img/posts/happy_boy_reading.jpg)
 
 ### Making your child feel safe
 
@@ -30,9 +30,13 @@ This sense of stability and safety is something that parents should strive for w
 
 As it turns out, reading aloud to children can help lower levels of the stress hormone cortisol and give them the opportunity to open up to you about things that might be bothering them. Dr. Gorski goes on to explain how this can make your child feel comfortable enough to sleep better through the night. “Relax and just enjoy being with your child,” he advises. “Just think of what that close time you’re spending together will do for your own cortisol levels!”
 
+![girl sleeping]({{site.baseurl}}/assets/img/posts/peaceful_girl_sleeping.jpg)
+
 ### A two-way blessing
 
 The doctor has a point. While bedtime reading with your kids is unlikely to help you learn new vocabulary words, studies have shown how doing so can actually help adults calm down and prepare their bodies for sleep as well. By incorporating reading into your nightly winding-down ritual, you can lower your own stress levels and enjoy having more restorative sleep every evening.
+
+![parent child reading together]({{site.baseurl}}/assets/img/posts/bonding_dad_son_reading.jpg)
 
 For adults, sleep can take the backseat because of the many challenges we face during the day. However, doing so can significantly impact mental and physical health, while making us more susceptible to being irritable, even to children. [Leesa dubs this phenomenon of moodiness as ‘slangry’](http://blog.leesa.com/slanger-management/), a portmanteau of ‘sleep-deprived’ and ‘angry’, and explains that lack of sleep can greatly affect the way a person’s mind and mood works. This is particularly devastating for parents, as studies have shown that it can actually prevent our minds from making positive memories to cherish with our children. 
 
