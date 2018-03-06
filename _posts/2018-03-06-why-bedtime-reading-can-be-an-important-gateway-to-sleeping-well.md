@@ -4,7 +4,7 @@ published: true
 permalink: /why-bedtime-reading-can-be-an-important-gateway-to-sleeping-well
 categories:
   - importance of reading
-author: guest post
+author: guest
 comments: true
 related:
   - /featured-childrens-book-author-and-illustrator-rob-biddulph
