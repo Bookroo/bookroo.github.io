@@ -14,7 +14,7 @@ images:
   - url: happy_boy_reading.jpg
     alt: reading books
 ---
-## Why Bedtime Reading Can Be an Important Gateway to Sleeping Well
+
 
 Earlier this year, [Bookroo had the pleasure of interviewing Susanna Leonard Hill](http://blog.bookroo.com/featured-childrens-book-author-susanna-leonard-hill), mother of five and author of 15 children’s books. Among her work are the well loved stories _When Your Elephant Has the Sniffles_ and _Can’t Sleep without Sheep_, which again show just how much children stand to gain from bedtime reading.
 
