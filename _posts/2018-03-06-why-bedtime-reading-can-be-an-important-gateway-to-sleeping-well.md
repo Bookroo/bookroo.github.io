@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /why-bedtime-reading-can-be-an-important-gateway-to-sleeping-well
 categories:
   - importance of reading
