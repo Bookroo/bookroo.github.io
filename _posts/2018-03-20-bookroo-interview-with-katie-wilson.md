@@ -43,8 +43,6 @@ _Katie: I adore children’s books and am so happy that my illustration style fi
 
 _Katie: I hope children feel a sense of wonder about the world and that my work in some small way influences them to care for our planet and the other plants and animals we share it with._
 
-![Children's book illustrator tools]({{site.baseurl}}/assets/img/posts/tools.jpg)
-
 **Bookroo: What does a typical day look like, and what is your most productive time of day?** 
 
 _Katie: I try to get up as early as possible, as I find the early morning is the best time for me to do my creative work. I start with poached eggs on toast and a coffee, before working for a few hours, either on client work or pieces for my portfolio. I then take a break for lunch and then catch up on emails, do accounts or other administrative tasks. If I’m really busy with deadlines I’ll then keep working, otherwise I try to spend time doing something non-work related._
@@ -52,6 +50,8 @@ _Katie: I try to get up as early as possible, as I find the early morning is the
 **Bookroo: Where do you find inspiration, and where do you like to work?** 
 
 _Katie: I work from home, which I love. I work best without distractions and it is great being able to snuggle with my cats, walk the dog and make a cup of tea if I need a break! If I need inspiration I will take a walk to the local library, sit in my garden and sketch, or go to the beach or forest. I am lucky that I live in a part of the world with spectacular nature at my door._
+
+![Children's book illustrator tools]({{site.baseurl}}/assets/img/posts/tools.jpg)
 
 **Bookroo: What is your favorite food?** 
 
