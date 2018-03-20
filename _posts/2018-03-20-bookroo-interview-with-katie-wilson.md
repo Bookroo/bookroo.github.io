@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /featured-childrens-book-illustrator-katie-wilson
 categories:
   - author/illustrator interview
