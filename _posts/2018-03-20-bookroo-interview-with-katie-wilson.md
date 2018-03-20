@@ -15,7 +15,9 @@ images:
 ---
 This month’s featured illustrator is Katie Wilson. Katie illustrated the delightful board book _Landmarks_, which we included in our Bookroo board book boxes.
 
-Katie is a New Zealand-based illustrator with a fun, whimsical style that we adore! As she describes it, her illustrations are “sweet and cheerful with a handmade feel.” She has illustrated six children’s books in a charming series that help children learn about the world around them. In addition to illustrating children’s books, she has also done illustration work for greeting cards and magazines. Her impressive client list includes Hallmark and Papyrus, and she also has a shop featuring her illustrations.
+Katie is a New Zealand-based illustrator with a fun, whimsical style that we adore! As she describes it, her illustrations are “sweet and cheerful with a handmade feel.” She has illustrated six children’s books in a charming series that help children learn about the world around them. In addition to illustrating children’s books, she has also done illustration work for greeting cards and magazines. Her impressive client list includes Hallmark and Papyrus, and she also has a shop featuring her illustrations. (The interview has been edited for clarity.)
+
+![Children's Book Illustrator Katie Wilson]({{site.baseurl}}/assets/img/posts/Katie.jpg)
 
 We were thrilled to interview Katie to learn more about her and her work.
 
@@ -39,6 +41,8 @@ _Katie: I adore children’s books and am so happy that my illustration style fi
 
 _Katie: I hope children feel a sense of wonder about the world and that my work in some small way influences them to care for our planet and the other plants and animals we share it with._
 
+![Children's book illustrator tools]({{site.baseurl}}/assets/img/posts/tools.jpg)
+
 **Bookroo: What does a typical day look like, and what is your most productive time of day?** 
 
 _Katie: I try to get up as early as possible, as I find the early morning is the best time for me to do my creative work. I start with poached eggs on toast and a coffee, before working for a few hours, either on client work or pieces for my portfolio. I then take a break for lunch and then catch up on emails, do accounts or other administrative tasks. If I’m really busy with deadlines I’ll then keep working, otherwise I try to spend time doing something non-work related._
@@ -56,3 +60,5 @@ _Katie: Hmmm, this is a difficult one - I love lots of foods - avocados, spinach
 _Katie: I’d love to do a lot more children’s books! I also have a few book ideas floating around in my sketchbook that would be amazing to see published._
 
 We really appreciate the opportunity to learn more about Katies and her work as an illustrator. You can learn more about her and see more of her work on her [website](https://www.inmybackyard.co.nz/).
+
+(All images in this interview courtesy of Katie Wilson.)
