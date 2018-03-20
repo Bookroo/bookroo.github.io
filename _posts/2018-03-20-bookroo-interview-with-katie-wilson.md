@@ -28,7 +28,9 @@ _Katie: These illustrations were made with watercolour, gouache, coloured pencil
 **Bookroo: We love your illustration style and think it is very recognizable and unique. How did you go about developing your personal style?** 
 
 _Katie: I think my style is still evolving, and I still find it hard to recognise my own style - this is a problem a lot of illustrators seem to have, perhaps we are too close to our own work to see it! I try to keep pushing my work, trying new materials and media. I think mostly style comes from creating lots and lots and lots of work, noticing when something is particularly working for me, and incorporating that in future work._
-    
+
+![Children's book Landmarks!]({{site.baseurl}}/assets/img/posts/landmarkscover.jpg)
+
 **Bookroo: What guides or references do you use as you’re creating an illustration, whether it’s of an animal, building, or landscape?** 
 
 _Katie: If I don’t have a lot of time I’ll often look for reference images on the internet, I also love to look through vintage books for reference images - they have a different quality to them that I find more interesting to draw from. I also keep my own sketchbooks which can be useful to look through for references._
