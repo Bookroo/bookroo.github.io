@@ -13,9 +13,9 @@ images:
     alt: JuniorReader
   - url: null
 ---
-HUGE UPDATE today! Some of you have been waiting anxiously for this, and we’re ecstatic to announce that we are launching our [Junior Box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box")! [The Bookroo Junior Box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box") is the latest addition to our book-of-the-month club and is geared for readers between ages 7-10. 
+HUGE UPDATE today! Some of you have been waiting anxiously for this, and we’re ecstatic to announce that we are launching our [Junior Box](https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box")! [The Bookroo Junior Box](https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box") is the latest addition to our book-of-the-month club and is geared for readers between ages 7-10. 
 
-Click here to [order a box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box"), our very first box for your own young reader!
+Click here to [order a box](https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box"), our very first box for your own young reader!
 
 ![Junior Reader]({{site.baseurl}}/assets/img/posts/JuniorReader.jpg)
 
@@ -28,7 +28,7 @@ Our Junior Box will ship to subscribers or gift recipients once every two months
 ![Reading In Bed]({{site.baseurl}}/assets/img/posts/Readinginbed.jpg)
 
 
-The most rewarding part of [running our own business](https://www.google.com/url?hl=en&q=http://blog.bookroo.com/the-who-behind-bookroo&source=gmail&ust=1503611469714000&usg=AFQjCNFMrCNdXtV6DvmD_M_XZHb1AkLyfQ "The Who Behind Bookroo") is that we get a chance to hear directly from our subscribers. Our best days at Bookroo are when we get fan mail from parents who tell us our boxes and the books we send help their kids learn to read. Here’s my favorite bit of feedback from one of our subscribers.
+The most rewarding part of [running our own business](http://blog.bookroo.com/the-who-behind-bookroo&source=gmail&ust=1503611469714000&usg=AFQjCNFMrCNdXtV6DvmD_M_XZHb1AkLyfQ "The Who Behind Bookroo") is that we get a chance to hear directly from our subscribers. Our best days at Bookroo are when we get fan mail from parents who tell us our boxes and the books we send help their kids learn to read. Here’s my favorite bit of feedback from one of our subscribers.
 
 “I just LOVE bookroo. You are doing something great for my family. My daughter just turned two and knows all of her ABC's and numbers up to 20. She talks like a pro and is so smart, she knows her colors and shapes and honestly I attribute it to the fact that I have been reading to her everyday since she was an infant. Your books . . . have become favorites and re-reads in my home. So thank you thank you thank you. Honestly I cannot say enough how happy I am that you have given my family something new to read every month and a chance to have some fun one-on-one time.”
 
@@ -36,4 +36,4 @@ We recognize that there is a broad spectrum of literacy among children 7-10 year
 
 ![SiblingLove]({{site.baseurl}}/assets/img/posts/SiblingLove.jpg)
 
-Click here to [order your box](https://www.google.com/url?hl=en&q=https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box"), and don't forget to use the code JRBOXBLOG to get 10% off your order! If you have questions, please email support@bookroo.com. And, if you're as excited about our Junior Box as we are, please help us share the news!
+Click here to [order your box](https://bookroo.com/junior-box&source=gmail&ust=1503611469714000&usg=AFQjCNG02_JzXsiyp8YyeQiBCU7B8bg2eQ "Junior Box"), and don't forget to use the code JRBOXBLOG to get 10% off your order! If you have questions, please email support@bookroo.com. And, if you're as excited about our Junior Box as we are, please help us share the news!
