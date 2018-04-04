@@ -38,7 +38,7 @@ _Paula: In general, my ideas come in the form of images and pop into my head whe
 
 **Bookroo: Do you have a favorite part of creating a new book?**
 
-_Paula: My favorite part in a new book is the creation of the characters. I ask myself many questions, like What does this character look like? What is his or her world like? What will his or her personality be like? What material should I use to represent him or her better? I love to investigate and draw for days to finally meet my characters.  _
+_Paula: My favorite part in a new book is the creation of the characters. I ask myself many questions, like What does this character look like? What is his or her world like? What will his or her personality be like? What material should I use to represent him or her better? I love to investigate and draw for days to finally meet my characters._
 
 **Bookroo: What have you enjoyed about working and living around the world?**
 
