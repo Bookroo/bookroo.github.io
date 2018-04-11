@@ -1,6 +1,7 @@
 ---
 layout: post
-published: false
+published: true
+permalink: /mega-box-giveaway-official-rules
 ---
 MEGA BOX GIVEAWAY - OFFICIAL RULES
 
