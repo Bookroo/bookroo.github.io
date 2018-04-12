@@ -23,7 +23,7 @@ HOW TO ENTER: There are two (2) ways to enter the Sweepstakes during the Promoti
 
 Ways to Enter:
 (a) Refer a friend.
-Successfully refer a friend to Bookroo (a successful referral is defined as your friend's subscribing to and creating a Bookroo account within the Promotion Period) using your custom referral link found on your personal Bookroo account page (https://subscribe.bookroo.com/customer/account). By successfully referring a friend, you, the Entrant, will receive one (1) Entry.
+Successfully refer a friend to Bookroo (a successful referral is defined as your friend's subscribing to Bookroo and creating a Bookroo account within the Promotion Period) using your custom referral link found on your personal Bookroo account page (https://subscribe.bookroo.com/customer/account). By successfully referring a friend, you, the Entrant, will receive one (1) Entry.
 
 If you do not have a Bookroo account, please email support@bookroo.com to request a custom referral code. Responses will be answered withing 48 hours. If you do not receive a response within that time, please send your request again as it may have been bounced by Sponsor's email system.
 
