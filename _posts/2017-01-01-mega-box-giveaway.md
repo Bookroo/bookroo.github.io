@@ -36,7 +36,7 @@ Attn: Mega Box
 42 North University Avenue Suite 204
 Provo, UT 84601
 
-By successfully submitting a Mail in Envelope the Entrant will receive one (1) Entry. All mail-in Entries must be legible, complete, and post marked no later than 3/18/2018 and received no later than 3/25/2018.  Use of computer programs and/or other automated devices to
+By successfully submitting a Mail in Envelope the Entrant will receive one (1) Entry. All mail-in Entries must be legible, complete, and post marked no later than 5/18/2018 and received no later than 5/25/2018.  Use of computer programs and/or other automated devices to
 enter the Sweepstakes is prohibited. Normal Internet access and usage charges
 imposed by your on-line service will apply.
 
