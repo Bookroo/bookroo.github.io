@@ -31,7 +31,9 @@ _Ciara: My favorite thing about Bear is his sweet and gentle nature and how much
 
 **Bookroo: Where do you find ideas for new story ideas?**
 
-_Ciara: I get ideas from everywhere - from my own experiences as a child to watching my son grow up. It’s the little things he says or the special way a child sees and interprets their world that gives me inspiration. _
+_Ciara: I get ideas from everywhere - from my own experiences as a child to watching my son grow up. It’s the little things he says or the special way a child sees and interprets their world that gives me inspiration._
+
+![Children's Book Bear Loves Jam]({{site.baseurl}}/assets/img/posts/BLJ%20Cover%20sized.jpg)
 
 **Bookroo: Do you ever test out story ideas on your son?**
 
@@ -48,6 +50,8 @@ _Ciara: My son is 9 now so is at an age where he can choose to read by himself b
 **Bookroo: How do you feel when you hold in your hands for the first time one of your books as a finished product?**
 
 _Ciara: It’s a strange feeling, I don’t think I’ve really gotten used to that. I think the most surreal part is when I hear someone talking about one of my characters or a scene from the book and I think how strange that that thought used to only exist inside my head and now it’s out there in the world being shared with children in countries I’ve never even been to. That truly staggers me and I feel really humbled and honoured by that._
+
+![Children's Book Author and Illustrator Ciara Gavin]({{site.baseurl}}/assets/img/posts/Bookroo%20WIP%20sized.jpg)
 
 **Bookroo: What does a regular day look like for you, and do you have a favorite time of day to work?**  
 _Ciara: Mornings are my favourite time to work, I feel energized and organized for a few hours everyday and then I slowly wilt toward bedtime. Because I am a single parent, my hours are not always consistent and I work around my son’s routine so I mainly work while my son is at school and then again late in the evenings when he goes to bed._ 
