@@ -10,15 +10,14 @@ related:
   - /featured-childrens-book-illustrator-katie-wilson
   - /featured-childrens-book-author-and-illustrator-cale-atkinson
 images:
-  - url: Ciara.jpg
+  - url: Ciara2.jpg
     alt: Childrens Book Author & Illustrator Ciara Gavin
 ---
 One of the books we were thrilled to include in our Bookroo picture book boxes this month is _Bear Likes Jam_, by Ciara Gavin. Some of you may recognize the charming character Bear from _Room for Bear_, a Bookroo favorite! In _Bear Likes Jam_, Bear is back and loving his recent discovery: delicious jam. He loves jam so much, in fact, that eating anything else becomes very unexciting until the ducks turn it into a game!
 
 We’re excited to share an interview we did with the books author and illustrator, Ciara Gavin. Ciara lives and works in Dublin, Ireland. She studied at the National College of Art and Design in Dublin. She has experienced exciting success with her work, including having her work exhibited at the National Museum of Decorative Arts and History. Ciara is mother to one son and has written and illustrated four children’s books.
 
-![Children's Book Author & Illustrator Ciara Gavin]({{site.baseurl}}/assets/img/posts/Ciara.jpg)![Ciara.jpg]({{site.baseurl}}/assets/img/posts/Ciara.jpg)
-
+![Children's Book Author & Illustrator Ciara Gavin]({{site.baseurl}}/assets/img/posts/Ciara2.jpg)![Ciara2.jpg]({{site.baseurl}}/assets/img/posts/Ciara2.jpg)
 
 **Bookroo: So we’re curious--does Bear’s love for jam stem from your own or your son’s love for jam? Or was it just a fun idea that came to you?**
 
