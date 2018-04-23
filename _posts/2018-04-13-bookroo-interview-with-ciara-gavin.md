@@ -1,11 +1,11 @@
 ---
 layout: post
-published: true
+published: false
 permalink: /featured-childrens-book-author-and-illustrator-ciara-gavin
 categories:
   - author/illustrator interview
 author: chandler
-comments: false
+comments: true
 related:
   - /featured-childrens-book-illustrator-katie-wilson
   - /featured-childrens-book-author-and-illustrator-cale-atkinson
