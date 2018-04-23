@@ -17,7 +17,8 @@ One of the books we were thrilled to include in our Bookroo picture book boxes t
 
 We’re excited to share an interview we did with the books author and illustrator, Ciara Gavin. Ciara lives and works in Dublin, Ireland. She studied at the National College of Art and Design in Dublin. She has experienced exciting success with her work, including having her work exhibited at the National Museum of Decorative Arts and History. Ciara is mother to one son and has written and illustrated four children’s books.
 
-![Children's book illustrator and author Ciara Gavin]({{site.baseurl}}/assets/img/posts/Ciara.jpg)
+![Children's Book Author & Illustrator Ciara Gavin]({{site.baseurl}}/assets/img/posts/Ciara.jpg)![Ciara.jpg]({{site.baseurl}}/assets/img/posts/Ciara.jpg)
+
 
 **Bookroo: So we’re curious--does Bear’s love for jam stem from your own or your son’s love for jam? Or was it just a fun idea that came to you?**
 
