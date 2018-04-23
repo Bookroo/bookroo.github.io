@@ -17,6 +17,8 @@ One of the books we were thrilled to include in our Bookroo picture book boxes t
 
 We’re excited to share an interview we did with the books author and illustrator, Ciara Gavin. Ciara lives and works in Dublin, Ireland. She studied at the National College of Art and Design in Dublin. She has experienced exciting success with her work, including having her work exhibited at the National Museum of Decorative Arts and History. Ciara is mother to one son and has written and illustrated four children’s books.
 
+![Children's book illustrator and author Ciara Gavin]({{site.baseurl}}/assets/img/posts/Ciara.jpg)
+
 **Bookroo: So we’re curious--does Bear’s love for jam stem from your own or your son’s love for jam? Or was it just a fun idea that came to you?**
 
 _Ciara: We both love jam. I decided to collect my empty jam jars and use them as spice jars and I was a little shocked at how many I collected in a short space of time so that alerted me to our out of control jam habit._
@@ -59,3 +61,5 @@ _Ciara: Spending time with friends and family is where my priorities are when I�
 _Ciara: My fourth title, Randal the Elephant is out now. It’s about a little otter named Randal, who dreams about becoming an elephant. I wrote this book to encourage children not to place boundaries and restrictions on their dreams or what they think they can achieve._ 
 
 We really appreciate the opportunity to learn more about Ciara and her work as an author and illustrator. You can learn more about her and see more of her work on her [website](http://www.ciaragavin.com/).
+
+(All images courtesy of Ciara Gavin)
