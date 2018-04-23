@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /featured-childrens-book-author-and-illustrator-ciara-gavin
 categories:
   - author/illustrator interview
