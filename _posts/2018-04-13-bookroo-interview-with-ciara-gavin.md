@@ -33,7 +33,7 @@ _Ciara: My favorite thing about Bear is his sweet and gentle nature and how much
 
 _Ciara: I get ideas from everywhere - from my own experiences as a child to watching my son grow up. It’s the little things he says or the special way a child sees and interprets their world that gives me inspiration._
 
-![Children's Book Bear Loves Jam]({{site.baseurl}}/assets/img/posts/BLJ%20Cover%20sized.jpg)
+![Children's Book Bear Loves Jam]({{site.baseurl}}/assets/img/posts/BLJ-CoverRGB2.jpg)
 
 **Bookroo: Do you ever test out story ideas on your son?**
 
