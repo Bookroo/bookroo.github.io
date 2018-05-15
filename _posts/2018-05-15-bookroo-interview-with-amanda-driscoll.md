@@ -13,9 +13,9 @@ images:
   - url: Amanda.jpg
     alt: Childrens Book Author & Illustrator Amanda Driscoll
 ---
-We hope you’ve all been loving your new books! Our featured author and illustrator this month is Amanda Driscoll. Amanda is the author and illustrator of Wally Does Not Want a Haircut. We love the tale of Wally and his courage in facing his fears. We are excited to bring you an interview with Amanda.
+We hope you’ve all been loving your new books! Our featured author and illustrator this month is Amanda Driscoll. Amanda is the author and illustrator of _Wally Does Not Want a Haircut_. We love the tale of Wally and his courage in facing his fears. We are excited to bring you an interview with Amanda.
 
-Amanda is an author and illustrator based in Prospect, Kentucky. As she explains, like “any good Kentucky-born girl,” she “grew up drawing horses.” After earning a degree in Fine Art / Graphic Design from Murray State University, she worked as a graphic designer before launching her own company, Driscoll Creative. When she became a mother, she discovered her true passion: writing and illustrating children’s books. She is now the author and illustrator of three picture books.
+Amanda is an author and illustrator based in Prospect, Kentucky. As she explains, like “any good Kentucky-born girl,” she “grew up drawing horses.” After earning a degree in Fine Art / Graphic Design from Murray State University, she worked as a graphic designer before launching her own company, Driscoll Creative. When she became a mother, she discovered her true passion: writing and illustrating children’s books. She is now the author and illustrator of three picture books. (The interview has been edited for clarity and length.)
 
 **Bookroo: Where did you get the idea for _Wally Does Not Want a Haircut_?** 
 
@@ -25,7 +25,7 @@ _Amanda: Basically, Wally is my son in sheep form. He was afraid of getting his 
 
 _Amanda: I hope kids see Wally overcome his fears, and know they can overcome theirs as well. And I hope the story makes them laugh. A lot._
  
-**Bookroo: What was the biggest challenge in creating your first published book, Duncan the Story Dragon?**
+**Bookroo: What was the biggest challenge in creating your first published book, _Duncan the Story Dragon_?**
 
 _Amanda: Honestly, my biggest challenge was overcoming my own fears. For many years I worked toward my dream of becoming a published author/illustrator. With Duncan, that dream was finally coming true. I put tremendous pressure on myself for it to be perfect. I struggled with self-doubt and fear of failure. Once I moved past the goal of perfection and, as I tell my kids, “just did my best”, the process was much more enjoyable. And I’m happy with the result!_
 
@@ -51,10 +51,12 @@ _Amanda: My favorite family activity is laser tag. Possibly because I am the ult
 
 **Bookroo: What advice do you have for parents and others who are trying to raise readers?**
 
-_Amanda: Read, read, read to your kids. Anytime, anywhere. Make sure they have books within reach, so they can pick up a book on their own. Give them books in the car, in restaurants, in the grocery. And let them see you reading a book, too. As my kids became independent readers, we would sit side-by-side on my bed and read individually, but together._
+_Amanda: Read, read, read to your kids. Anytime, anywhere. Make sure they have books within reach, so they can pick up a book on their own. Give them books in the car, in restaurants, in the grocery store. And let them see you reading a book, too. As my kids became independent readers, we would sit side-by-side on my bed and read individually, but together._
 
 **Bookroo: We’re a community of book lovers. Do you have any upcoming books you can tell us about?**
 
-_Amanda: Well, my third book, Klondike Do Not Eat Those Cupcakes!, came out in January, so that has been exciting. It is such a fun read-aloud, and I have loved reading it with kids on school visits. I am also writing some new stories, but I don’t currently have another book in the publishing pipeline._
+_Amanda: Well, my third book, Klondike Do Not Eat Those Cupcakes!, came out in January, so that has been exciting. It is such a fun read-aloud, and I have loved reading it with kids on school visits._
 
 We really appreciate the opportunity to learn more about Amanda and her work as an author and illustrator. You can learn more about her and see more of her work on her [website](https://www.amandadriscoll.com/).
+
+(All images courtesy of Amanda Driscoll)
