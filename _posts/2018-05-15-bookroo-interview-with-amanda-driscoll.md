@@ -1,11 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 permalink: /featured-childrens-book-author-and-illustrator-amanda-driscoll
 categories:
   - author/illustrator interview
 author: chandler
-comments: false
+comments: true
 related:
   - /featured-childrens-book-illustrator-katie-wilson
   - /featured-childrens-book-author-and-illustrator-ciara-gavin
