@@ -19,7 +19,7 @@ Prizes cannot be transferred, redeemed for cash or substituted by winner. Sponso
     
 This Sweepstakes is open to legal residents of the U.S. and Prize will only be awarded and/or delivered to addresses within said locations. All federal, state and/or local taxes, fees, and surcharges are the sole responsibility of the prize winner. Failure to comply with the Official Rules will result in forfeiture of the prize.
 
-HOW TO ENTER: Enter the Sweepstakes during the Promotion Period online by commenting on the Sponsor's post, which can be found on the following website at https://www.facebook.com/bookroo.love/.
+HOW TO ENTER: Enter the Sweepstakes during the Promotion Period online by answering the prompt on the Sponsor's post, which can be found on the following website at https://www.facebook.com/bookroo.love/.
 
 Automated or robotic Entries submitted by individuals or organizations will be disqualified. Internet entry must be made by the Entrant. Any attempt by Entrant to obtain more than the stated number of Entries by using multiple/different email addresses, identities, registrations, logins or any other methods, including, but not limited to, commercial contest/sweepstakes subscription notification and/or entering services, will void Entrant's Entries and that Entrant may be disqualified. Final eligibility for the award of any prize is subject to eligibility verification as set forth below. All Entries must be posted by the end of the Promotion Period in order to participate. Sponsor's clock will be the official timekeeper for this Sweepstakes.
     
