@@ -1,17 +1,17 @@
 ---
+layout: post
 title: 33 Free Activities to Minimize Screen Time This Summer
 permalink: /33-free-activities-to-minimize-screen-time-this-summer
 published: true
 comments: true
-layout: post
 author: jane
-categories: 
+categories:
   - activities
-related: 
+related:
   - /the-best-things-in-life/
   - /inside-the-bookroo-review-process
   - /8-princesses-you-might-actually-want-your-daughter-to-emulate
-images: 
+images:
   - url: kids-swimming.jpg
     alt: Kids swimming
   - url: kids-chalk.jpg
@@ -44,10 +44,6 @@ So we’ve gathered fun ideas for you and your kiddos to minimize screen time in
 17. Be creative with a cardboard box
 18. Fingerpaint
 19. Draw with chalk
-
-    {% assign image=page.images[1] %}
-    {% include _posts/image.html image=image %}
-
 20. Clean your room without being asked
 21. Clean someone else’s room
 22. Make someone’s bed
